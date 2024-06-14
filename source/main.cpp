@@ -21,7 +21,10 @@ void scanFolder(const Options & options) {
     file << "Lifetime \t";
     file << "MaxDegree \t";
     file << "(un)stability \t";
+    file << "pair stability \t";
+    file << "pair stability v2 \t";
     file << "c \t";
+    file << "delta1=1, delta2=0 \t";
     file << "delta1=1, delta2=5 \t";
     file << "delta1=1, delta2=10 \t";
     file << "delta1=5, delta2=10 \t";
@@ -40,13 +43,12 @@ void scanFolder(const Options & options) {
 }
 
 
-
-
 int main(int argc, char *argv[])
 {
   Options options(argc,argv);
   
   scanFolder(options);
+  //  Graph g("data/test/test2.edges");
  
   return 0;
 }

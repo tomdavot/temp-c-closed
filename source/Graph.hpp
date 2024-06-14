@@ -106,6 +106,13 @@ using graph_p = boost::adjacency_list<boost::vecS, boost::vecS, boost::undirecte
 
 class Graph : public graph_p
 {
+  struct Debug {
+    unsigned x,y, tempx, tempy;
+  };
+
+  Debug d;
+
+  
   TimeWindow time;
 
   void parse_txt(std::string fileName);
@@ -113,6 +120,8 @@ class Graph : public graph_p
   void read_dot(std::string fileName);
 
   bool locally_c_closed(unsigned u, unsigned v, unsigned delta_1, unsigned delta_2, unsigned c);
+
+  unsigned min_locally_c_closed(unsigned u, unsigned v, unsigned delta_1, unsigned delta_2);
 
   
 public:
@@ -125,15 +134,21 @@ public:
   bool areAdjacent(unsigned u,unsigned v, TimeWindow t);
   bool areAdjacent(unsigned u,unsigned v);
 
+  std::set<unsigned> commonNeighborhood(unsigned u, unsigned v, TimeWindow t);
 
-  unsigned commonNeighbours(unsigned u, unsigned v, TimeWindow t);
-  unsigned commonNeighbours(unsigned u, unsigned v);
+  
+  unsigned commonNeighborhoodSize(unsigned u, unsigned v, TimeWindow t);
+  unsigned commonNeighborhoodSize(unsigned u, unsigned v);
 
   bool is_c_closed(unsigned delta_1, unsigned delta_2, unsigned c);
 
   unsigned min_c_closed(unsigned delta_1, unsigned delta_2);
 
   unsigned n_stability();
+
+  unsigned n_pair_stability();
+
+  unsigned n_pair_stability_v2();
 
   void test_c_closed(unsigned maxDelta_1, unsigned maxDelta_2);
 
