@@ -70,6 +70,8 @@ struct Vertex {
   size_t id;
 };
 
+
+
 struct Edge {
   boost::container::flat_set<unsigned> lambda;
 
@@ -82,14 +84,22 @@ public:
   const std::string & set_label();
   // ****************************
 
-  bool appears(unsigned t)
+  bool appears(unsigned t) const
   {
     return std::binary_search(lambda.begin(),lambda.end(),t);
   }
-  bool appears(TimeWindow t)
+  bool appears(TimeWindow t) const
   {
     auto a = lambda.lower_bound(t.first)++;
     return *a>=t.first && *a<= t.second;
+  }
+
+  TimeWindow time(TimeWindow t) const
+  {
+    TimeWindow time;
+    time.first=*lambda.lower_bound(t.first);
+    time.second=*(--lambda.lower_bound(t.second));
+    return time;
   }
 
   
@@ -100,7 +110,7 @@ public:
 
 
 
-using graph_p = boost::adjacency_list<boost::vecS, boost::vecS, boost::undirectedS, Vertex, Edge>;
+using graph_p = boost::adjacency_list<boost::vecS, boost::vecS, boost::undirectedS, unsigned, Edge>;
 
 
 
@@ -112,16 +122,26 @@ class Graph : public graph_p
 
   Debug d;
 
+  struct CommonNeighborhood {
+    std::set<unsigned> vertices;
+    TimeWindow time;
+  };
+
+
+  
+  std::set<unsigned> exclude;
+  
   
   TimeWindow time;
 
-  void parse_txt(std::string fileName);
-  
-  void read_dot(std::string fileName);
+  void parse_dot_edge(std::string fileName);
 
   bool locally_c_closed(unsigned u, unsigned v, unsigned delta_1, unsigned delta_2, unsigned c);
 
   unsigned min_locally_c_closed(unsigned u, unsigned v, unsigned delta_1, unsigned delta_2);
+
+  bool is_excluded(unsigned v) const;
+
 
   
 public:
@@ -134,7 +154,7 @@ public:
   bool areAdjacent(unsigned u,unsigned v, TimeWindow t);
   bool areAdjacent(unsigned u,unsigned v);
 
-  std::set<unsigned> commonNeighborhood(unsigned u, unsigned v, TimeWindow t);
+  CommonNeighborhood commonNeighborhood(unsigned u, unsigned v, TimeWindow t);
 
   
   unsigned commonNeighborhoodSize(unsigned u, unsigned v, TimeWindow t);
@@ -150,9 +170,15 @@ public:
 
   unsigned n_pair_stability_v2();
 
-  void test_c_closed(unsigned maxDelta_1, unsigned maxDelta_2);
+  std::pair<unsigned,unsigned> min_gamma(unsigned delta_1, unsigned delta_2,unsigned max_c=0);
+
+  unsigned min_weakly_c_closed(unsigned delta_1, unsigned delta_2);
 
   void write_stats(std::ofstream &file, std::string nameGraph);
+
+  void write_in_file(std::string fileName);
+
+  void display_gaps();
   
 };
 

@@ -1,3 +1,6 @@
+#include <boost/container/flat_set.hpp>
+#include <boost/xpressive/regex_constants.hpp>
+
 #include <chrono>
 #include <climits>
 #include <cstddef>
@@ -5,14 +8,13 @@
 #include <filesystem>
 #include <iostream>
 #include <string>
-
+ 
 #include "Graph.hpp"
 #include "options.hpp"
 
 namespace fs = std::filesystem;
 
 
-// // Fonction pour appliquer une fonction sur chaque fichier d'un dossier
 void scanFolder(const Options & options) {
     std::ofstream file(options.output, std::ios::trunc);
     file << "Name \t";
@@ -25,9 +27,13 @@ void scanFolder(const Options & options) {
     file << "pair stability v2 \t";
     file << "c \t";
     file << "delta1=1, delta2=0 \t";
+    file << "weakly \t";
     file << "delta1=1, delta2=5 \t";
+    file << "weakly \t";
     file << "delta1=1, delta2=10 \t";
+    file << "weakly \t";
     file << "delta1=5, delta2=10 \t";
+    file << "weakly \t";
     file << "\n";
     
     if (!file.is_open()) {
@@ -47,8 +53,6 @@ int main(int argc, char *argv[])
 {
   Options options(argc,argv);
   
-  scanFolder(options);
-  //  Graph g("data/test/test2.edges");
- 
+  scanFolder(options);  
   return 0;
 }

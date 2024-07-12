@@ -43,6 +43,7 @@ if(NOT Boost_FOUND)
   MESSAGE(FATAL_ERROR "Could not find Boost.")
 endif(NOT Boost_FOUND)
 
-ADD_EXECUTABLE(tempo source/main.cpp source/Graph.cpp)
+ADD_EXECUTABLE(tempo source/tempo/main.cpp source/tempo/Graph.cpp)
+ADD_EXECUTABLE(convert source/convert/main.cpp)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON CACHE INTERNAL "")
 TARGET_LINK_LIBRARIES(tempo ${Boost_LIBRARIES})
