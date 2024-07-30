@@ -1,403 +1,326 @@
-Name 	|V| 	|E| 	Lifetime 	MaxDegree 	(un)stability 	pair stability 	pair stability v2 	c 	delta1=1, delta2=0 	delta1=1, delta2=5 	delta1=1, delta2=10 	delta1=5, delta2=10 	
-data/animal/insecta-ant-colony4-day37.edges	102	484	[1,69]	33	16	5	4	31	3	3	3	13	
-data/animal/insecta-ant-colony2-day02.edges	132	6464	[1,181]	128	43	12	9	105	9	9	9	48	
-data/animal/insecta-ant-colony4-day06.edges	103	3903	[1,57]	96	40	24	22	82	18	17	17	48	
-data/animal/fish-guppy-familiar-8.edges	3	1	[20,20]	1	0	0	0	0	0	0	0	0	
-data/animal/fish-guppy-familiar-5.edges	3	1	[14,14]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day08.edges	161	8482	[1,376]	147	73	47	47	115	47	37	37	71	
-data/animal/insecta-ant-colony4-day15.edges	102	2144	[1,87]	70	27	16	16	64	13	13	13	37	
-data/animal/insecta-ant-colony5-day13.edges	152	5995	[1,176]	122	41	13	11	107	11	11	11	46	
-data/animal/reptilia-tortoise-network-cs-2014.edges	74	20	[3,72]	3	2	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony4-day05.edges	103	3929	[1,48]	97	43	26	26	84	24	24	24	48	
-data/animal/insecta-ant-colony5-day23.edges	152	2945	[1,138]	85	29	20	20	72	20	20	19	35	
-data/animal/insecta-ant-colony2-day31.edges	131	2008	[1,91]	72	31	11	10	53	10	7	7	31	
-data/animal/insecta-ant-colony6-day31.edges	165	4383	[1,138]	111	45	15	15	85	14	9	9	49	
-data/animal/fish-stickleback-group-7.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day23.edges	161	4647	[1,222]	110	42	34	33	93	33	30	30	52	
-data/animal/insecta-ant-colony5-day37.edges	152	1492	[1,110]	62	23	16	16	50	16	16	16	27	
-data/animal/reptilia-tortoise-network-bsv-1998-inact.edges	115	35	[6,115]	7	4	1	1	3	1	1	1	1	
-data/animal/insecta-ant-colony5-day03.edges	153	8634	[1,178]	150	55	37	36	123	36	36	33	66	
-data/animal/reptilia-tortoise-network-sg.edges	25	26	[1999,2000]	4	4	0	0	1	1	1	1	1	
-data/animal/insecta-ant-colony5-day30.edges	152	2861	[1,173]	84	28	22	22	76	19	19	19	33	
-data/animal/insecta-ant-colony5-day24.edges	152	3029	[1,138]	87	31	10	8	74	8	7	7	39	
-data/animal/insecta-ant-colony4-day40.edges	102	485	[1,76]	33	14	5	5	29	4	3	3	12	
-data/animal/insecta-ant-trophallaxis-colony1-day8.edges	42	68	[8,870]	7	2	1	1	3	1	1	1	1	
-data/animal/insecta-ant-colony4-day31.edges	102	1221	[1,73]	53	22	16	16	46	16	13	13	25	
-data/animal/insecta-ant-colony5-day21.edges	152	5923	[1,263]	125	49	22	21	103	12	12	9	50	
-data/animal/insecta-ant-colony3-day22.edges	161	4684	[1,165]	108	44	23	23	95	23	19	19	53	
-data/animal/insecta-ant-colony5-day16.edges	152	5926	[1,177]	127	43	37	37	100	37	37	37	64	
-data/animal/insecta-ant-colony5-day19.edges	152	5795	[1,278]	118	41	13	11	98	10	9	9	53	
-data/animal/insecta-ant-colony6-day20.edges	165	6760	[1,163]	133	43	29	29	102	29	29	26	53	
-data/animal/insecta-ant-colony1-day27.edges	113	2010	[1,158]	75	29	14	14	53	13	9	8	29	
-data/animal/insecta-ant-colony5-day02.edges	153	9141	[1,84]	151	50	44	44	123	44	29	29	60	
-data/animal/insecta-ant-colony6-day39.edges	163	2447	[1,139]	81	29	12	12	59	12	12	12	29	
-data/animal/reptilia-tortoise-network-bsv-1996.edges	10	4	[3,10]	2	2	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony1-day37.edges	113	1158	[1,117]	53	21	13	13	47	13	13	13	21	
-data/animal/aves-sparrowlyon-flock-season3.edges	28	164	[1,26]	18	10	6	5	10	4	4	4	9	
-data/animal/insecta-ant-colony6-day13.edges	165	7068	[1,117]	136	47	38	38	114	32	31	31	55	
-data/animal/reptilia-tortoise-network-pv-2005.edges	11	8	[1,9]	2	2	1	1	1	0	0	0	1	
-data/animal/insecta-ant-colony6-day36.edges	163	2717	[1,130]	81	35	10	8	68	8	7	7	35	
-data/animal/aves-sparrowlyon-flock-season2.edges	47	348	[1,22]	31	21	7	6	15	6	6	6	14	
-data/animal/insecta-ant-colony3-day40.edges	161	2853	[1,75]	83	32	10	10	68	10	9	6	33	
-data/animal/insecta-ant-colony5-day08.edges	153	8032	[1,170]	149	52	42	42	113	42	34	33	67	
-data/animal/insecta-ant-colony3-day02.edges	161	9844	[1,88]	153	67	39	39	134	26	26	26	89	
-data/animal/insecta-ant-colony6-day34.edges	163	2616	[1,118]	79	33	11	8	63	8	6	6	37	
-data/animal/reptilia-tortoise-network-mc.edges	16	28	[2012,2013]	9	4	0	0	3	3	3	3	3	
-data/animal/insecta-ant-trophallaxis-colony2-day2.edges	32	30	[2,794]	5	2	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony5-day41.edges	152	1508	[1,89]	63	24	11	11	48	10	10	10	25	
-data/animal/aves-weaver-social-13.edges	287	76	[128,282]	10	6	1	1	7	1	1	1	4	
-data/animal/insecta-ant-colony6-day15.edges	165	7098	[1,116]	131	45	37	36	111	36	35	34	50	
-data/animal/insecta-ant-colony1-day16.edges	113	3397	[1,227]	93	37	13	9	74	9	9	8	48	
-data/animal/reptilia-tortoise-network-sl-2013.edges	12	8	[1,10]	3	2	1	1	1	1	1	1	1	
-data/animal/fish-stickleback-group-1.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day03.edges	161	9191	[1,72]	151	64	31	31	129	31	28	27	75	
-data/animal/insecta-beetle-group-c3-period-1.edges	6	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony4-day36.edges	102	488	[1,50]	33	15	12	12	30	12	7	5	18	
-data/animal/insecta-ant-trophallaxis-colony2-day8.edges	35	48	[4,514]	8	2	1	1	3	1	1	1	1	
-data/animal/reptilia-tortoise-network-hw.edges	17	16	[2009,2012]	4	3	1	1	2	2	2	2	2	
-data/animal/insecta-ant-colony1-day11.edges	114	3454	[1,159]	90	35	10	10	65	10	8	7	38	
-data/animal/aves-barn-swallow-contact-network.edges	3	1	[1,1]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony1-day18.edges	113	3423	[1,160]	95	34	24	23	73	23	20	20	43	
-data/animal/reptilia-tortoise-network-pv-2011.edges	29	8	[2,27]	3	2	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony1-day25.edges	113	2117	[1,94]	73	30	10	8	57	8	8	8	38	
-data/animal/insecta-ant-colony4-day09.edges	103	3988	[1,91]	98	34	28	26	86	20	15	15	40	
-data/animal/insecta-ant-colony1-day09.edges	114	4128	[1,142]	105	48	17	17	83	15	15	15	46	
-data/animal/insecta-ant-colony6-day05.edges	165	10005	[1,102]	159	47	33	33	133	33	33	33	58	
-data/animal/fish-stickleback-group-2.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day27.edges	161	4545	[1,208]	106	40	17	17	91	17	17	13	42	
-data/animal/aves-sparrow-social-2009.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/aves-weaver-social-14.edges	298	25	[287,297]	8	4	1	1	3	1	1	1	3	
-data/animal/insecta-ant-colony6-day24.edges	165	4536	[1,101]	114	37	27	27	86	27	20	20	40	
-data/animal/reptilia-tortoise-network-cs-2011.edges	43	9	[2,40]	3	2	0	0	1	0	0	0	1	
-data/animal/aves-weaver-social-22.edges	446	39	[234,445]	9	3	1	1	3	1	1	1	1	
-data/animal/insecta-ant-colony2-day20.edges	132	3902	[1,86]	98	37	12	10	77	10	10	10	38	
-data/animal/reptilia-tortoise-network-fi-2013.edges	787	55	[164,787]	4	2	1	1	1	1	1	1	1	
-data/animal/insecta-beetle-group-c2-period-1.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/aves-weaver-social-21.edges	432	40	[171,431]	11	6	2	1	5	1	1	1	4	
-data/animal/insecta-ant-colony3-day26.edges	161	4535	[1,176]	106	41	12	9	84	9	9	9	44	
-data/animal/insecta-ant-colony5-day40.edges	152	1512	[1,187]	63	22	16	15	54	15	13	13	25	
-data/animal/insecta-ant-colony2-day27.edges	132	2394	[1,157]	80	28	8	7	64	7	7	7	33	
-data/animal/insecta-ant-colony1-day29.edges	113	2221	[1,135]	74	38	17	17	60	16	16	16	31	
-data/animal/insecta-ant-colony2-day11.edges	132	5704	[1,119]	125	43	18	17	102	17	17	15	48	
-data/animal/insecta-ant-colony2.edges	278	8344	[1,243]	134	80	76	53	127	101	71	71	124	
-data/animal/reptilia-tortoise-network-cs-2008.edges	23	22	[2,21]	5	3	1	1	3	1	1	1	1	
-data/animal/reptilia-tortoise-network-hw-2009.edges	12	6	[1,7]	2	2	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony3-day35.edges	161	2915	[1,90]	86	32	9	8	68	8	8	8	36	
-data/animal/fish-guppy-familiar-2.edges	3	1	[22,22]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony2-day33.edges	130	1086	[1,86]	50	19	7	5	43	5	5	4	21	
-data/animal/reptilia-tortoise-network-pv-2012.edges	34	17	[3,32]	4	2	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony3-day13.edges	161	6477	[1,146]	131	55	40	40	104	40	21	16	62	
-data/animal/insecta-ant-colony5-day35.edges	152	1506	[1,139]	59	26	8	8	51	8	8	8	28	
-data/animal/aves-barn-swallow-non-physical.edges	3	1	[4,4]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony5-day28.edges	152	2956	[1,167]	84	30	11	11	70	11	11	11	35	
-data/animal/reptilia-tortoise-network-fi-2005-inact.edges	23	8	[3,23]	1	1	0	0	0	0	0	0	0	
-data/animal/reptilia-tortoise-network-fi-2011-inact.edges	543	12	[192,541]	2	1	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony3-day11.edges	161	8451	[1,125]	144	57	48	48	115	48	40	38	71	
-data/animal/aves-geese-female-foraging.edges	21	190	[0,93]	19	11	4	4	0	5	5	5	13	
-data/animal/aves-wildbird-network-2.edges	133	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony2-day24.edges	132	2313	[1,166]	73	28	16	16	59	13	13	13	31	
-data/animal/reptilia-tortoise-network-fi-2012.edges	779	69	[164,775]	5	2	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony1-day13.edges	113	3252	[1,187]	91	37	12	11	73	10	10	10	47	
-data/animal/insecta-ant-colony4-day12.edges	102	2067	[1,79]	70	29	11	11	64	9	11	7	34	
-data/animal/reptilia-tortoise-network-fi-2009-inact.edges	435	14	[11,435]	2	1	0	0	1	0	0	0	0	
-data/animal/insecta-ant-colony1-day30.edges	113	2220	[1,98]	76	33	10	8	59	8	8	8	33	
-data/animal/insecta-ant-colony2-day39.edges	130	879	[1,80]	47	20	8	8	35	8	8	8	21	
-data/animal/insecta-ant-trophallaxis-colony2-day3.edges	34	45	[6,442]	6	2	1	1	3	1	1	1	1	
-data/animal/insecta-ant-colony4-day04.edges	103	3754	[1,88]	97	38	15	15	84	11	11	11	50	
-data/animal/reptilia-tortoise-network-cs-2010.edges	40	25	[2,37]	5	3	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony5-day15.edges	152	5990	[1,228]	129	44	34	33	96	33	33	33	50	
-data/animal/insecta-ant-colony3-day04.edges	161	9092	[1,95]	148	68	62	62	138	48	42	42	80	
-data/animal/insecta-ant-colony6-day28.edges	165	4784	[1,142]	106	37	25	25	93	24	22	22	44	
-data/animal/reptilia-tortoise-network-lm-1999.edges	46	22	[2,42]	4	3	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony6-day16.edges	165	6611	[1,166]	122	54	26	26	105	26	23	23	48	
-data/animal/insecta-ant-colony6-day03.edges	165	10090	[1,108]	158	47	29	29	136	29	29	24	58	
-data/animal/insecta-ant-colony2-day18.edges	132	3825	[1,184]	99	40	24	24	77	24	24	23	44	
-data/animal/insecta-ant-colony4.edges	134	5075	[1,108]	104	62	58	42	97	63	50	47	94	
-data/animal/insecta-ant-colony4-day03.edges	103	4055	[1,63]	99	46	25	25	88	25	25	25	56	
-data/animal/aves-weaver-social-19.edges	407	45	[134,406]	11	5	1	1	5	1	1	1	2	
-data/animal/insecta-ant-trophallaxis-colony1-day4.edges	41	51	[8,512]	8	2	1	1	4	1	1	1	1	
-data/animal/insecta-ant-colony1-day19.edges	113	3196	[1,161]	95	35	27	25	74	25	25	25	43	
-data/animal/insecta-ant-colony3-day25.edges	161	4440	[1,204]	106	42	30	30	85	30	24	16	50	
-data/animal/insecta-ant-colony6-day25.edges	165	4658	[1,144]	107	41	28	28	92	27	27	27	45	
-data/animal/insecta-ant-colony6-day14.edges	165	7037	[1,140]	132	42	33	33	112	30	30	30	55	
-data/animal/insecta-ant-colony6-day21.edges	165	7121	[1,179]	133	43	40	39	114	39	39	39	64	
-data/animal/insecta-ant-colony1-day33.edges	113	1082	[1,76]	49	26	11	11	42	11	11	11	26	
-data/animal/insecta-ant-colony4-day24.edges	102	1167	[1,76]	51	20	12	12	45	12	10	10	22	
-data/animal/insecta-ant-trophallaxis-colony1.edges	941	341	[1,582]	42	8	2	2	16	2	2	2	3	
-data/animal/aves-weaver-social-01.edges	26	8	[19,25]	4	3	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony3-day36.edges	161	3028	[1,74]	86	31	19	19	67	19	19	18	33	
-data/animal/reptilia-tortoise-network-fi-2009.edges	471	158	[11,471]	8	2	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony6-day10.edges	165	9354	[1,138]	151	46	32	32	126	32	32	32	52	
-data/animal/aves-wildbird-network-4.edges	133	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony5-day20.edges	152	5907	[1,207]	124	43	41	41	99	33	33	33	51	
-data/animal/insecta-ant-colony1-day04.edges	114	4094	[1,113]	101	43	25	25	80	25	17	17	48	
-data/animal/reptilia-tortoise-network-pv.edges	36	66	[2005,2013]	12	8	5	5	5	2	2	2	5	
-data/animal/insecta-ant-trophallaxis-colony1-day5.edges	39	26	[6,370]	5	1	0	0	2	0	0	0	1	
-data/animal/insecta-ant-colony4-day17.edges	102	2089	[1,54]	69	33	18	18	62	17	17	17	34	
-data/animal/insecta-ant-colony6-day12.edges	165	6625	[1,152]	126	44	13	13	108	12	13	12	44	
-data/animal/insecta-ant-colony5-day29.edges	152	2866	[1,163]	85	33	11	11	69	7	6	6	36	
-data/animal/insecta-ant-colony1-day07.edges	114	4077	[1,107]	101	42	27	27	78	27	23	23	42	
-data/animal/insecta-ant-colony1-day41.edges	113	1129	[1,73]	52	27	13	13	42	11	10	9	27	
-data/animal/insecta-beetle-group-t3-period-1.edges	8	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day10.edges	161	9046	[1,137]	153	61	50	49	126	42	35	33	70	
-data/animal/reptilia-tortoise-network-hw-2012.edges	15	4	[4,16]	2	1	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony3-day29.edges	161	4695	[1,143]	108	42	19	19	90	19	17	17	53	
-data/animal/insecta-ant-colony3-day33.edges	161	2977	[1,75]	86	30	24	24	69	22	22	22	41	
-data/animal/insecta-ant-colony2-day23.edges	132	2605	[1,122]	82	41	21	21	64	21	21	21	36	
-data/animal/aves-weaver-social-18.edges	392	7	[115,389]	4	3	0	0	2	1	1	1	1	
-data/animal/insecta-ant-colony3-day09.edges	161	8883	[1,177]	146	67	51	50	125	45	50	45	75	
-data/animal/insecta-ant-colony4-day29.edges	102	1272	[1,63]	54	21	16	14	48	13	10	10	28	
-data/animal/insecta-ant-colony5-day09.edges	153	7835	[1,184]	150	50	40	40	116	40	37	32	58	
-data/animal/reptilia-tortoise-network-cs.edges	74	132	[2006,2015]	15	9	7	4	6	4	4	4	6	
-data/animal/insecta-ant-colony6-day09.edges	165	10774	[1,221]	158	56	41	39	146	39	39	35	65	
-data/animal/insecta-ant-colony4-day08.edges	103	3857	[1,63]	97	43	30	29	80	29	29	29	43	
-data/animal/insecta-ant-colony3-day19.edges	161	6417	[1,192]	127	51	39	38	107	37	36	36	60	
-data/animal/insecta-ant-colony4-day01.edges	103	4269	[1,97]	101	41	26	26	87	26	26	26	54	
-data/animal/insecta-ant-colony4-day14.edges	102	2107	[1,108]	71	28	26	26	60	26	26	26	35	
-data/animal/insecta-ant-colony3.edges	377	12373	[1,376]	163	108	90	63	154	125	94	94	151	
-data/animal/aves-wildbird-network-1.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/reptilia-tortoise-network-sl.edges	12	13	[2012,2013]	4	4	0	0	2	2	2	2	2	
-data/animal/aves-hens-pecking-order.edges	33	330	[1,32]	30	21	5	4	20	2	2	1	12	
-data/animal/reptilia-tortoise-network-pv-2010.edges	27	13	[3,26]	5	5	1	1	3	1	1	1	1	
-data/animal/reptilia-tortoise-network-sl-2012.edges	7	3	[2,3]	2	2	0	0	1	1	1	1	1	
-data/animal/insecta-ant-colony3-day07.edges	161	8690	[1,155]	151	58	45	45	118	45	45	45	79	
-data/animal/insecta-ant-colony2-day38.edges	130	963	[1,58]	51	21	14	14	38	13	13	13	23	
-data/animal/insecta-ant-colony3-day15.edges	161	6403	[1,147]	125	51	29	29	105	10	10	10	62	
-data/animal/fish-guppy-familiar-10.edges	3	1	[19,19]	1	0	0	0	0	0	0	0	0	
-data/animal/reptilia-tortoise-network-sg-2000.edges	25	4	[7,23]	2	1	0	0	1	0	0	0	0	
-data/animal/insecta-ant-colony3-day17.edges	161	6731	[1,158]	129	54	28	28	109	28	28	28	63	
-data/animal/insecta-beetle-group-c1-period-1.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony4-day21.edges	102	2120	[1,66]	69	33	19	19	62	19	19	19	30	
-data/animal/insecta-beetle-group-c1-period-2.edges	2	1	[0,0]	2	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony2-day05.edges	132	5926	[1,277]	123	45	27	26	98	26	24	23	49	
-data/animal/aves-weaver-social-03.edges	73	100	[31,71]	20	4	2	1	6	1	1	1	4	
-data/animal/insecta-ant-colony6-day11.edges	165	8042	[1,165]	143	40	15	15	107	15	15	15	46	
-data/animal/insecta-ant-colony2-day34.edges	130	1061	[1,70]	50	22	7	7	43	5	5	5	20	
-data/animal/aves-sparrow-social.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/aves-thornbill-farine.edges	63	1151	[1,22]	55	36	21	21	40	17	17	17	37	
-data/animal/insecta-ant-colony2-day36.edges	130	1015	[1,58]	50	20	10	10	40	10	6	6	23	
-data/animal/insecta-ant-colony5-day39.edges	152	1501	[1,55]	62	24	8	7	48	7	7	7	26	
-data/animal/insecta-ant-colony2-day15.edges	132	3972	[1,143]	104	32	26	26	85	22	22	22	40	
-data/animal/insecta-ant-colony6-day01.edges	165	10731	[1,229]	160	45	34	34	145	34	34	34	57	
-data/animal/insecta-ant-colony5-day07.edges	153	8093	[1,195]	148	58	38	38	113	33	33	29	59	
-data/animal/insecta-ant-colony4-day34.edges	102	505	[1,52]	33	16	14	14	29	10	10	10	19	
-data/animal/insecta-beetle-group-c2-period-2.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony1-day02.edges	114	4573	[1,138]	106	43	22	21	92	21	20	20	47	
-data/animal/insecta-beetle-group-t4-period-1.edges	28	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony2-day03.edges	132	6497	[1,235]	124	49	32	31	106	23	23	23	52	
-data/animal/aves-weaver-social-16.edges	382	117	[126,379]	11	4	1	1	5	1	1	1	2	
-data/animal/insecta-ant-colony1-day32.edges	113	1090	[1,73]	50	24	13	13	40	13	13	13	26	
-data/animal/insecta-beetle-group-c4-period-2.edges	5	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/aves-weaver-social-02.edges	31	6	[26,30]	3	3	1	1	2	0	0	0	2	
-data/animal/insecta-ant-colony6-day27.edges	165	4788	[1,112]	111	45	31	30	87	27	27	27	50	
-data/animal/insecta-ant-colony4-day35.edges	102	501	[1,54]	33	14	6	5	29	5	5	5	15	
-data/animal/insecta-ant-colony6-day30.edges	165	4709	[1,111]	107	40	34	33	89	33	32	32	45	
-data/animal/insecta-ant-colony2-day16.edges	132	4041	[1,140]	108	39	17	16	80	16	16	16	36	
-data/animal/insecta-ant-colony6-day04.edges	165	10313	[1,97]	158	48	36	36	141	36	36	35	54	
-data/animal/reptilia-tortoise-network-cs-2009.edges	29	18	[3,25]	4	3	1	1	3	1	1	1	1	
-data/animal/insecta-ant-colony1-day01.edges	114	4550	[1,133]	109	43	27	27	92	27	27	22	51	
-data/animal/insecta-ant-colony4-day07.edges	103	3797	[1,133]	97	36	28	27	81	25	22	22	53	
-data/animal/insecta-ant-colony2-day40.edges	130	895	[1,56]	44	22	8	8	33	5	5	5	18	
-data/animal/insecta-ant-colony2-day29.edges	132	2373	[1,127]	77	30	10	10	58	9	9	9	33	
-data/animal/fish-guppy-familiar-7.edges	3	1	[14,14]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony6-day18.edges	165	7061	[1,130]	129	43	26	26	113	26	26	26	50	
-data/animal/insecta-ant-colony1-day06.edges	114	4259	[1,118]	100	43	19	19	82	19	19	19	46	
-data/animal/insecta-beetle-group-t2-period-1.edges	7	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-trophallaxis-colony2.edges	795	355	[1,458]	38	8	2	1	16	1	1	1	4	
-data/animal/insecta-ant-colony4-day22.edges	102	1234	[1,104]	54	23	12	12	47	12	7	7	28	
-data/animal/insecta-beetle-group-c3-period-2.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/reptilia-tortoise-network-fi-2011.edges	754	317	[1,754]	8	3	1	1	3	1	1	1	1	
-data/animal/insecta-ant-colony3-day32.edges	161	2990	[1,91]	86	34	16	14	67	14	10	10	43	
-data/animal/reptilia-tortoise-network-cs-2015.edges	68	6	[4,66]	2	2	0	0	1	0	0	0	1	
-data/animal/fish-guppy-familiar-6.edges	3	1	[21,21]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony5-day32.edges	152	1546	[1,110]	62	25	13	13	53	9	9	7	26	
-data/animal/insecta-ant-colony5-day01.edges	153	9053	[1,250]	150	52	44	44	129	44	44	41	75	
-data/animal/insecta-ant-colony3-day18.edges	161	6609	[1,288]	128	52	34	34	112	20	20	20	62	
-data/animal/reptilia-tortoise-network-pv-2013.edges	36	10	[7,35]	2	2	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony5-day27.edges	152	2856	[1,123]	83	26	20	20	71	20	20	20	37	
-data/animal/insecta-ant-colony2-day25.edges	132	2336	[1,214]	78	30	10	10	60	8	8	8	30	
-data/animal/aves-weaver-social-04.edges	91	18	[73,90]	4	3	1	1	1	1	1	1	1	
-data/animal/aves-wildbird-network-5.edges	133	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/aves-weaver-social-17.edges	387	6	[100,386]	3	2	1	1	1	1	1	1	1	
-data/animal/aves-weaver-social-20.edges	420	39	[407,419]	8	4	1	1	5	1	1	1	4	
-data/animal/insecta-ant-colony3-day05.edges	161	8863	[1,182]	152	64	55	55	124	55	50	50	82	
-data/animal/insecta-ant-colony2-day26.edges	132	2351	[1,126]	82	27	10	10	58	8	9	8	28	
-data/animal/insecta-ant-colony6-day17.edges	165	7178	[1,159]	137	44	19	18	112	18	18	18	52	
-data/animal/insecta-ant-colony1-day40.edges	113	1094	[1,93]	50	24	8	7	43	6	6	5	23	
-data/animal/insecta-ant-colony2-day30.edges	132	2401	[1,83]	79	27	10	8	62	8	6	6	33	
-data/animal/reptilia-tortoise-network-bsv.edges	137	374	[1996,1999]	19	16	11	8	8	6	6	6	8	
-data/animal/aves-geese-male-foraging.edges	24	253	[0,173]	22	19	6	5	0	5	4	4	14	
-data/animal/insecta-ant-colony1-day17.edges	113	3342	[1,247]	96	37	19	19	77	19	19	19	42	
-data/animal/insecta-ant-colony5-day06.edges	153	8379	[1,275]	149	56	36	36	120	24	24	22	60	
-data/animal/insecta-ant-trophallaxis-colony2-day5.edges	35	32	[10,546]	4	1	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony3-day12.edges	161	6404	[1,107]	126	52	32	32	103	28	28	28	61	
-data/animal/insecta-ant-colony4-day20.edges	102	2184	[1,70]	70	28	26	26	67	20	20	20	33	
-data/animal/aves-wildbird-network-3.edges	133	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day30.edges	161	4321	[1,161]	104	39	23	22	84	22	22	22	47	
-data/animal/insecta-ant-colony2-day10.edges	132	5679	[1,187]	124	41	22	22	105	22	22	22	50	
-data/animal/insecta-ant-colony2-day06.edges	132	5960	[1,161]	127	43	29	27	99	27	27	24	51	
-data/animal/insecta-ant-colony2-day08.edges	132	6078	[1,176]	127	38	29	28	99	28	24	24	44	
-data/animal/insecta-ant-colony4-day39.edges	102	492	[1,90]	33	12	6	6	30	6	6	6	14	
-data/animal/reptilia-tortoise-network-bsv-1997-inact.edges	30	11	[8,25]	3	2	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony2-day09.edges	132	6375	[1,120]	128	44	28	28	105	24	24	18	51	
-data/animal/insecta-ant-colony3-day39.edges	161	3059	[1,109]	89	32	22	22	74	22	22	20	36	
-data/animal/aves-weaver-social-10.edges	186	13	[174,187]	4	3	0	0	1	1	1	0	1	
-data/animal/insecta-ant-colony4-day28.edges	102	1276	[1,57]	54	22	7	7	48	7	7	7	26	
-data/animal/insecta-ant-colony5-day10.edges	153	7779	[1,205]	143	47	35	35	119	32	25	25	52	
-data/animal/reptilia-tortoise-network-fi-2008-inact.edges	205	22	[164,205]	4	2	1	1	2	1	1	1	2	
-data/animal/insecta-ant-colony1.edges	363	6187	[1,189]	118	68	68	48	107	79	76	76	100	
-data/animal/reptilia-tortoise-network-cs-2013-inact.edges	46	4	[3,40]	2	1	0	0	1	0	0	0	0	
-data/animal/insecta-ant-colony5-day33.edges	152	1485	[1,95]	60	26	12	12	52	12	12	11	31	
-data/animal/fish-guppy-familiar-1.edges	3	1	[17,17]	1	0	0	0	0	0	0	0	0	
-data/animal/reptilia-tortoise-network-lm-1998-inact.edges	12	7	[3,11]	2	2	1	1	1	1	0	0	1	
-data/animal/insecta-ant-colony6-day29.edges	165	5112	[1,180]	112	36	28	28	100	28	26	26	45	
-data/animal/reptilia-tortoise-network-mc-2012.edges	15	16	[1,13]	7	2	1	1	2	1	1	1	2	
-data/animal/insecta-ant-colony1-day24.edges	113	2372	[1,160]	75	34	14	14	64	14	14	14	35	
-data/animal/insecta-ant-colony4-day16.edges	102	2095	[1,65]	70	27	14	14	61	11	7	7	32	
-data/animal/insecta-ant-colony5-day34.edges	152	1425	[1,139]	61	27	10	9	47	9	9	7	26	
-data/animal/insecta-ant-colony1-day20.edges	113	3147	[1,134]	91	37	24	24	69	14	13	13	40	
-data/animal/insecta-ant-colony1-day14.edges	113	3399	[1,123]	92	33	18	18	75	18	17	15	45	
-data/animal/insecta-ant-colony6.edges	235	12980	[1,269]	168	102	92	64	157	113	94	82	148	
-data/animal/insecta-ant-colony1-day12.edges	113	3248	[1,169]	92	40	18	17	70	17	17	17	42	
-data/animal/insecta-ant-colony4-day25.edges	102	1204	[1,60]	52	19	6	6	49	6	6	6	24	
-data/animal/insecta-ant-colony4-day33.edges	102	490	[1,67]	34	12	11	10	29	10	10	10	17	
-data/animal/insecta-ant-trophallaxis-colony1-day7.edges	42	43	[4,564]	6	1	0	0	2	0	0	0	1	
-data/animal/reptilia-tortoise-network-fi-2007.edges	161	8	[11,161]	2	1	0	0	1	0	0	0	0	
-data/animal/reptilia-tortoise-network-fi-2010.edges	524	82	[4,523]	3	2	1	1	1	1	1	1	1	
-data/animal/aves-weaver-social.edges	446	1335	[0,22]	27	27	16	16	7	7	7	7	7	
-data/animal/reptilia-tortoise-network-cs-2007.edges	22	23	[1,21]	6	2	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony2-day04.edges	132	6198	[1,243]	125	45	29	29	104	29	29	29	43	
-data/animal/insecta-ant-colony1-day28.edges	113	2143	[1,110]	72	29	9	7	57	7	7	7	35	
-data/animal/insecta-ant-colony4-day32.edges	102	497	[1,72]	33	15	9	9	30	9	9	9	17	
-data/animal/aves-sparrow-social-2010.edges	33	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony6-day19.edges	165	7209	[1,176]	134	58	27	27	110	27	27	27	55	
-data/animal/insecta-beetle-group-t1-period-1.edges	5	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony4-day27.edges	102	1266	[1,68]	54	26	19	18	48	17	17	15	26	
-data/animal/reptilia-tortoise-network-pv-2008.edges	21	7	[2,18]	2	1	0	0	1	0	0	0	0	
-data/animal/insecta-ant-trophallaxis-colony2-day1.edges	27	36	[2,444]	7	2	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony4-day41.edges	102	500	[1,53]	33	13	5	5	30	5	4	3	13	
-data/animal/insecta-ant-colony1-day10.edges	114	3943	[1,174]	93	43	19	18	76	14	14	14	46	
-data/animal/aves-weaver-social-00.edges	19	18	[1,17]	4	2	1	1	2	1	0	0	1	
-data/animal/insecta-ant-colony6-day38.edges	163	2475	[1,135]	76	33	14	14	63	14	14	14	32	
-data/animal/fish-guppy-familiar-4.edges	3	1	[20,20]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony1-day03.edges	114	4483	[1,262]	104	40	29	29	87	29	29	29	50	
-data/animal/insecta-ant-colony1-day22.edges	113	2269	[1,104]	74	31	27	27	62	24	24	22	34	
-data/animal/insecta-ant-colony3-day16.edges	161	7025	[1,132]	130	50	27	26	111	26	23	23	66	
-data/animal/reptilia-tortoise-network-mc-2013.edges	16	13	[3,13]	5	3	1	1	3	1	1	1	3	
-data/animal/insecta-ant-trophallaxis-colony2-day6.edges	37	46	[4,416]	8	2	1	1	3	1	1	1	1	
-data/animal/reptilia-tortoise-network-sg-1999.edges	23	15	[1,18]	3	2	1	1	1	1	1	1	1	
-data/animal/reptilia-tortoise-network-cs-2014-inact.edges	55	8	[9,55]	2	1	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony4-day23.edges	102	1228	[1,60]	52	22	9	8	47	8	6	6	27	
-data/animal/insecta-ant-colony2-day14.edges	132	3930	[1,165]	107	38	21	19	82	19	19	19	41	
-data/animal/insecta-ant-colony6-day07.edges	165	9860	[1,234]	156	49	39	39	133	39	39	39	62	
-data/animal/insecta-ant-colony4-day26.edges	102	1240	[1,78]	53	23	13	13	50	13	13	13	25	
-data/animal/reptilia-tortoise-network-hw-2011.edges	16	4	[4,13]	2	2	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day34.edges	161	3348	[1,84]	89	38	14	13	78	13	13	13	41	
-data/animal/reptilia-tortoise-network-fi-2006.edges	156	41	[3,154]	3	2	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony3-day28.edges	161	4634	[1,269]	108	39	28	28	87	28	19	19	45	
-data/animal/insecta-ant-colony1-day34.edges	113	1118	[1,121]	52	26	10	9	42	9	9	9	30	
-data/animal/insecta-beetle-group-c4-period-1.edges	26	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/reptilia-tortoise-network-cs-2011-inact.edges	30	5	[3,40]	2	2	0	0	1	0	0	0	0	
-data/animal/aves-weaver-social-11.edges	224	70	[179,224]	14	7	2	2	5	2	2	2	3	
-data/animal/reptilia-tortoise-network-fi.edges	788	1197	[2005,2013]	17	12	10	10	8	8	8	8	8	
-data/animal/reptilia-tortoise-network-cs-2013.edges	45	10	[3,45]	4	2	1	1	1	0	1	1	1	
-data/animal/insecta-ant-colony5-day05.edges	153	8410	[1,152]	150	47	36	35	125	34	33	32	59	
-data/animal/reptilia-tortoise-network-cs-2006.edges	8	4	[1,8]	2	1	1	1	1	1	1	1	1	
-data/animal/insecta-ant-colony1-day36.edges	113	1083	[1,92]	51	22	9	9	41	9	9	9	26	
-data/animal/insecta-ant-colony6-day06.edges	165	9726	[1,216]	156	46	39	39	135	39	39	34	56	
-data/animal/insecta-ant-colony6-day22.edges	165	4885	[1,175]	115	40	23	23	94	23	23	23	50	
-data/animal/insecta-ant-colony2-day41.edges	130	930	[1,76]	51	20	7	5	35	5	5	5	21	
-data/animal/fish-stickleback-group-4.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony3-day21.edges	161	6480	[1,231]	127	49	33	33	109	27	27	23	55	
-data/animal/insecta-ant-colony2-day12.edges	132	3808	[1,131]	99	37	25	25	78	15	15	15	39	
-data/animal/insecta-ant-colony3-day06.edges	161	8823	[1,239]	152	75	38	36	120	36	36	36	80	
-data/animal/insecta-ant-colony4-day13.edges	102	2119	[1,108]	70	32	18	17	60	13	13	13	35	
-data/animal/insecta-ant-colony1-day39.edges	113	1106	[1,116]	52	21	10	10	42	10	10	10	26	
-data/animal/insecta-ant-colony1-day05.edges	114	4149	[1,141]	101	39	31	30	79	30	30	21	45	
-data/animal/insecta-ant-colony6-day32.edges	163	2817	[1,104]	80	31	22	22	68	22	22	20	39	
-data/animal/aves-songbird-social.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony1-day38.edges	113	1134	[1,94]	51	24	16	16	46	12	12	12	25	
-data/animal/insecta-ant-colony2-day22.edges	132	2507	[1,107]	81	29	15	14	63	14	14	14	31	
-data/animal/insecta-ant-colony6-day33.edges	163	2718	[1,97]	80	31	22	22	65	22	22	21	35	
-data/animal/insecta-ant-colony3-day20.edges	161	6368	[1,146]	128	55	32	32	108	28	27	26	52	
-data/animal/insecta-ant-colony5-day18.edges	152	6180	[1,209]	127	42	43	43	97	43	43	26	52	
-data/animal/insecta-ant-colony6-day35.edges	163	2670	[1,124]	81	35	20	19	67	17	17	17	33	
-data/animal/insecta-ant-colony4-day02.edges	103	4149	[1,83]	99	41	19	19	90	19	16	16	54	
-data/animal/insecta-ant-colony3-day24.edges	161	4477	[1,376]	106	43	24	24	86	18	18	18	55	
-data/animal/insecta-ant-colony5-day31.edges	152	2556	[1,328]	82	37	21	21	66	20	17	17	43	
-data/animal/insecta-ant-colony5-day25.edges	152	2916	[1,127]	83	32	15	14	70	14	14	12	36	
-data/animal/insecta-ant-colony5-day26.edges	152	2568	[1,118]	77	32	10	10	65	9	9	9	34	
-data/animal/reptilia-tortoise-network-cs-2012.edges	43	13	[3,42]	4	3	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony6-day23.edges	165	4888	[1,151]	107	42	29	29	89	29	26	23	44	
-data/animal/insecta-ant-trophallaxis-colony1-day6.edges	41	23	[8,940]	3	1	0	0	1	0	0	0	1	
-data/animal/aves-wildbird-network.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony1-day15.edges	113	3301	[1,362]	92	36	11	11	76	11	11	11	45	
-data/animal/insecta-ant-colony1-day23.edges	113	2246	[1,125]	73	32	11	11	60	11	10	10	39	
-data/animal/reptilia-tortoise-network-bsv-1999.edges	137	70	[6,125]	6	3	1	1	3	1	1	1	1	
-data/animal/reptilia-tortoise-network-lm-1998.edges	41	58	[1,41]	9	3	1	1	4	1	1	1	2	
-data/animal/fish-stickleback-group-6.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony2-day01.edges	132	6591	[1,157]	128	47	14	13	111	13	11	11	54	
-data/animal/aves-weaver-social-07.edges	131	6	[123,131]	3	2	1	1	1	1	1	1	1	
-data/animal/insecta-ant-trophallaxis-colony1-day2.edges	36	32	[4,918]	4	2	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony2-day35.edges	130	991	[1,83]	50	20	10	10	41	9	6	6	21	
-data/animal/aves-weaver-social-05.edges	103	12	[91,101]	4	2	1	1	2	1	0	0	1	
-data/animal/insecta-ant-colony2-day32.edges	130	1015	[1,50]	49	20	13	13	41	12	12	8	22	
-data/animal/insecta-ant-colony5-day38.edges	152	1570	[1,83]	63	25	11	11	52	10	10	10	27	
-data/animal/insecta-ant-colony6-day37.edges	163	2570	[1,143]	79	32	17	16	60	16	16	16	37	
-data/animal/insecta-ant-colony3-day37.edges	161	2969	[1,151]	86	30	14	14	66	11	11	11	36	
-data/animal/insecta-ant-colony4-day38.edges	102	480	[1,82]	34	13	5	4	26	4	4	4	13	
-data/animal/reptilia-tortoise-network-fi-2008.edges	416	277	[4,416]	10	4	2	1	5	1	1	1	3	
-data/animal/insecta-ant-colony1-day21.edges	113	3266	[1,95]	93	34	23	23	75	18	17	16	43	
-data/animal/fish-stickleback-group-5.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/aves-weaver-social-15.edges	321	28	[299,319]	6	3	1	1	3	1	1	1	3	
-data/animal/insecta-ant-trophallaxis-colony1-day1.edges	31	37	[6,836]	6	2	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony2-day37.edges	130	928	[1,57]	48	18	6	5	36	5	5	5	19	
-data/animal/insecta-ant-colony6-day26.edges	165	4842	[1,108]	110	56	31	30	90	28	28	28	53	
-data/animal/insecta-ant-trophallaxis-colony1-day3.edges	38	28	[6,626]	6	2	1	1	2	1	1	1	1	
-data/animal/insecta-ant-colony3-day14.edges	161	6607	[1,111]	131	53	38	38	102	38	38	38	63	
-data/animal/reptilia-tortoise-network-fi-2005.edges	106	44	[1,106]	4	2	0	0	1	0	0	0	1	
-data/animal/insecta-ant-colony3-day38.edges	161	2985	[1,152]	86	30	16	15	71	15	15	8	33	
-data/animal/insecta-ant-colony2-day19.edges	132	3743	[1,179]	104	38	24	23	75	23	23	19	42	
-data/animal/insecta-ant-colony4-day11.edges	103	3592	[1,106]	98	33	19	19	80	15	19	11	36	
-data/animal/insecta-ant-colony3-day41.edges	161	2992	[1,102]	87	33	20	20	69	20	20	20	38	
-data/animal/insecta-ant-colony1-day35.edges	113	1210	[1,81]	52	22	8	8	46	7	7	7	29	
-data/animal/insecta-ant-colony4-day19.edges	102	2041	[1,59]	68	32	16	16	60	16	16	16	30	
-data/animal/reptilia-tortoise-network-bsv-1997.edges	109	124	[2,106]	10	3	1	1	4	1	1	1	2	
-data/animal/insecta-ant-colony3-day01.edges	161	11139	[1,74]	159	69	56	56	149	50	50	31	82	
-data/animal/insecta-ant-colony3-day31.edges	161	4161	[1,120]	106	46	25	24	85	24	12	9	54	
-data/animal/insecta-ant-colony5-day11.edges	153	6716	[1,156]	127	41	17	17	105	17	17	17	49	
-data/animal/fish-guppy-familiar-9.edges	3	1	[14,14]	1	0	0	0	0	0	0	0	0	
-data/animal/reptilia-tortoise-network-fi-2012-inact.edges	758	3	[173,692]	1	1	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony4-day30.edges	102	1252	[1,104]	54	22	14	13	45	7	6	6	26	
-data/animal/reptilia-lizard-network-social.edges	33	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-trophallaxis-colony2-day4.edges	36	41	[10,778]	7	1	0	0	2	0	0	0	1	
-data/animal/insecta-ant-colony1-day31.edges	113	1882	[1,112]	71	27	16	16	53	16	14	14	32	
-data/animal/aves-weaver-social-09.edges	172	24	[160,170]	7	3	1	1	4	1	1	1	3	
-data/animal/insecta-ant-colony4-day18.edges	102	2022	[1,67]	68	26	16	16	58	16	16	16	30	
-data/animal/aves-weaver-social-12.edges	257	68	[225,257]	15	6	2	1	5	1	1	1	2	
-data/animal/insecta-ant-colony5-day04.edges	153	8566	[1,294]	151	51	40	40	125	40	32	30	58	
-data/animal/insecta-ant-colony5-day17.edges	152	6082	[1,140]	126	40	19	18	101	18	17	17	43	
-data/animal/aves-weaver-social-06.edges	123	42	[104,122]	7	4	1	1	4	1	1	1	3	
-data/animal/insecta-ant-colony2-day21.edges	132	3843	[1,131]	99	32	12	12	75	12	12	12	35	
-data/animal/insecta-ant-colony6-day08.edges	165	9664	[1,269]	154	57	35	35	135	35	31	26	60	
-data/animal/reptilia-tortoise-network-lm.edges	46	106	[1998,1999]	12	11	0	0	6	5	4	4	6	
-data/animal/aves-wildbird-network-6.edges	133	1	[0,0]	1	0	0	0	0	0	0	0	0	
-data/animal/insecta-ant-colony4-day10.edges	103	4036	[1,84]	99	41	21	20	87	20	16	16	49	
-data/animal/insecta-ant-colony5.edges	295	11124	[1,328]	154	98	86	55	149	110	81	81	142	
-data/animal/insecta-ant-colony2-day17.edges	132	3921	[1,157]	105	41	12	10	76	10	10	10	37	
-data/animal/insecta-ant-colony5-day22.edges	152	2937	[1,106]	83	29	23	22	75	22	22	22	38	
-data/animal/insecta-ant-colony2-day07.edges	132	6293	[1,170]	129	43	25	25	110	25	18	17	53	
-data/animal/insecta-ant-colony5-day14.edges	152	6235	[1,168]	132	43	30	30	106	30	28	28	45	
-data/animal/insecta-ant-colony1-day26.edges	113	2137	[1,134]	73	28	14	13	58	13	13	13	30	
-data/animal/aves-weaver-social-08.edges	160	86	[132,159]	14	6	2	2	6	1	1	1	3	
-data/animal/insecta-ant-colony1-day08.edges	114	4076	[1,117]	99	45	20	20	78	17	17	17	48	
-data/animal/reptilia-tortoise-network-bsv-1998.edges	134	121	[5,130]	8	5	2	1	4	1	1	1	2	
-data/animal/reptilia-tortoise-network-pv-2009.edges	19	3	[4,21]	2	1	0	0	1	0	0	0	0	
-data/animal/insecta-ant-trophallaxis-colony2-day7.edges	40	52	[2,534]	9	3	1	1	4	1	1	1	1	
-data/animal/reptilia-tortoise-network-fi-2010-inact.edges	494	20	[13,494]	3	1	0	0	1	0	0	0	0	
-data/animal/insecta-ant-colony2-day13.edges	132	3929	[1,199]	104	42	25	25	79	25	25	25	39	
-data/animal/insecta-ant-colony5-day36.edges	152	1554	[1,121]	64	32	10	10	49	10	10	9	31	
-data/animal/insecta-ant-colony5-day12.edges	152	6057	[1,159]	120	42	32	31	98	28	28	27	49	
-data/animal/insecta-ant-colony2-day28.edges	132	2195	[1,129]	74	30	9	8	57	8	8	8	32	
-data/animal/insecta-ant-colony6-day02.edges	165	10272	[1,199]	157	55	36	33	143	32	29	29	58	
-data/animal/fish-stickleback-group-3.edges	3	1	[0,0]	1	0	0	0	0	0	0	0	0	
+Name 	|V| 	|E| 	Lifetime 	Max|Min Degree 	#deg 1|2 	(un)stability 	pair stability 	pair stability v2 	c 	delta1=0, delta2=0 	weak max(gamma,unstability) 	delta1=0, delta2=5 	weak max(gamma,unstability) 	delta1=0, delta2=10 	weak max(gamma,unstability) 	delta1=5, delta2=10 	weak max(gamma,unstability) 	
+d/animal/insecta-ant-colony4-day37.edges	102	484	[1,69]	33|0	0|0	16	4	3	31	3	2	3	2	3	2	13	8	
+d/animal/insecta-ant-colony2-day02.edges	132	6464	[1,181]	128|0	0|0	43	12	9	105	9	5	9	5	9	5	48	27	
+d/animal/insecta-ant-colony4-day06.edges	103	3903	[1,57]	96|0	0|0	40	12	9	82	9	5	9	5	9	5	48	28	
+d/animal/fish-guppy-familiar-8.edges	7	15	[1,29]	5|0	0|0	2	1	1	0	1	0	1	0	1	0	1	0	
+d/animal/fish-guppy-familiar-5.edges	7	15	[8,25]	5|0	0|0	3	1	1	0	1	1	0	1	0	1	0	1	
+d/animal/insecta-ant-colony3-day08.edges	161	8482	[1,376]	147|0	0|0	73	18	16	115	13	7	13	7	13	7	71	38	
+d/animal/insecta-ant-colony4-day15.edges	102	2144	[1,87]	70|0	0|1	27	10	7	64	7	4	7	4	7	4	37	21	
+d/animal/insecta-ant-colony5-day13.edges	152	5995	[1,176]	122|0	0|0	41	13	11	107	11	5	11	5	11	5	46	27	
+d/animal/insecta-ant-colony4-day05.edges	103	3929	[1,48]	97|0	0|0	43	12	10	84	10	5	9	5	9	5	48	28	
+d/animal/insecta-ant-colony5-day23.edges	152	2945	[1,138]	85|0	0|0	29	10	8	72	8	4	8	4	8	4	34	21	
+d/animal/insecta-ant-colony2-day31.edges	131	2008	[1,91]	72|0	0|0	31	11	10	53	10	4	7	4	7	4	31	18	
+d/animal/insecta-ant-colony6-day31.edges	165	4383	[1,138]	111|0	0|0	45	14	10	85	10	6	9	6	9	6	49	26	
+d/animal/fish-stickleback-group-7.edges	11	45	[0,0]	9|0	0|0	9	0	0	0	0	0	0	0	0	0	0	0	
+d/animal/insecta-ant-colony3-day23.edges	161	4647	[1,222]	110|0	0|0	42	11	9	93	9	5	9	5	9	5	48	27	
+d/animal/insecta-ant-colony5-day37.edges	152	1492	[1,110]	62|0	0|0	23	8	6	50	6	4	6	4	6	4	26	15	
+d/animal/insecta-ant-colony5-day03.edges	153	8634	[1,178]	150|0	0|0	55	14	11	123	11	6	11	6	9	6	66	35	
+d/animal/reptilia-tortoise-network-sg.edges	25	26	[1999,2000]	4|0	7|8	4	2	2	1	1	2	1	2	1	2	1	2	
+d/animal/insecta-ant-colony5-day30.edges	152	2861	[1,173]	84|0	0|0	28	9	8	76	8	4	8	4	7	4	33	21	
+d/animal/insecta-ant-colony5-day24.edges	152	3029	[1,138]	87|0	0|1	31	10	8	74	8	4	7	4	7	4	39	23	
+d/animal/insecta-ant-colony4-day40.edges	102	485	[1,76]	33|0	0|0	14	5	4	29	4	2	3	2	3	2	12	8	
+d/animal/insecta-ant-trophallaxis-colony1-day8.edges	42	68	[8,870]	7|0	4|3	2	1	1	3	1	1	1	1	1	1	1	1	
+d/animal/insecta-ant-colony4-day31.edges	102	1221	[1,73]	53|0	0|0	22	7	6	46	6	3	6	3	6	3	25	14	
+d/animal/insecta-ant-colony5-day21.edges	152	5923	[1,263]	125|0	0|0	49	13	12	103	12	5	12	5	9	5	50	30	
+d/animal/insecta-ant-colony3-day22.edges	161	4684	[1,165]	108|0	0|0	44	13	12	95	9	5	9	5	9	5	53	27	
+d/animal/insecta-ant-colony5-day16.edges	152	5926	[1,177]	127|0	0|0	43	13	10	100	10	5	10	5	10	5	47	28	
+d/animal/insecta-ant-colony5-day19.edges	152	5795	[1,278]	118|0	0|0	41	11	10	98	10	5	9	5	9	5	53	28	
+d/animal/insecta-ant-colony6-day20.edges	165	6760	[1,163]	133|0	0|0	43	14	10	102	10	5	10	5	10	5	53	28	
+d/animal/insecta-ant-colony1-day27.edges	113	2010	[1,158]	75|0	0|0	29	8	6	53	6	4	5	4	5	4	29	18	
+d/animal/insecta-ant-colony5-day02.edges	153	9141	[1,84]	151|0	0|0	50	15	12	123	12	6	12	6	12	6	60	38	
+d/animal/insecta-ant-colony6-day39.edges	163	2447	[1,139]	81|0	0|0	29	8	7	59	7	4	7	4	7	4	29	17	
+d/animal/insecta-ant-colony1-day37.edges	113	1158	[1,117]	53|0	0|0	21	6	6	47	6	3	6	3	6	3	21	12	
+d/animal/aves-sparrowlyon-flock-season3.edges	28	164	[1,26]	18|0	0|0	10	6	5	10	4	3	4	3	4	3	9	4	
+d/animal/insecta-ant-colony6-day13.edges	165	7068	[1,117]	136|0	0|0	47	12	10	114	10	5	10	5	10	5	55	28	
+d/animal/insecta-ant-colony6-day36.edges	163	2717	[1,130]	81|0	0|0	35	10	8	68	8	4	7	4	7	4	35	18	
+d/animal/aves-sparrowlyon-flock-season2.edges	47	348	[1,22]	31|0	1|0	21	7	6	15	6	4	6	4	6	4	14	8	
+d/animal/insecta-ant-colony3-day40.edges	161	2853	[1,75]	83|0	0|0	32	9	9	68	9	4	9	4	6	4	33	21	
+d/animal/insecta-ant-colony5-day08.edges	153	8032	[1,170]	149|0	0|0	52	15	12	113	12	6	11	6	11	6	67	33	
+d/animal/insecta-ant-colony3-day02.edges	161	9844	[1,88]	153|0	0|0	67	22	15	134	15	7	15	7	15	7	89	45	
+d/animal/insecta-ant-colony6-day34.edges	163	2616	[1,118]	79|0	0|0	33	11	8	63	8	4	6	4	6	4	37	20	
+d/animal/reptilia-tortoise-network-mc.edges	16	28	[2012,2013]	9|0	2|5	6	4	3	3	3	2	3	2	3	2	3	2	
+d/animal/insecta-ant-trophallaxis-colony2-day2.edges	32	30	[2,794]	5|0	6|7	2	1	1	2	1	0	1	0	1	0	1	1	
+d/animal/insecta-ant-colony5-day41.edges	152	1508	[1,89]	63|0	0|0	24	8	7	48	7	4	7	4	7	4	25	15	
+d/animal/insecta-ant-colony6-day15.edges	165	7098	[1,116]	131|0	0|0	45	14	13	111	13	5	13	5	10	5	46	27	
+d/animal/insecta-ant-colony1-day16.edges	113	3397	[1,227]	93|0	0|0	37	13	9	74	9	5	9	5	8	5	48	25	
+d/animal/fish-stickleback-group-1.edges	11	45	[0,0]	9|0	0|0	9	0	0	0	0	0	0	0	0	0	0	0	
+d/animal/insecta-ant-colony3-day03.edges	161	9191	[1,72]	151|0	0|0	64	20	16	129	16	7	14	7	14	7	75	43	
+d/animal/insecta-beetle-group-c3-period-1.edges	29	131	[0,0]	14|0	1|1	14	0	0	8	8	5	8	5	8	5	8	5	
+d/animal/insecta-ant-colony4-day36.edges	102	488	[1,50]	33|0	0|0	15	4	3	30	3	2	3	2	3	2	18	9	
+d/animal/insecta-ant-trophallaxis-colony2-day8.edges	35	48	[4,514]	8|0	5|5	2	1	1	3	1	1	1	1	1	1	1	1	
+d/animal/reptilia-tortoise-network-hw.edges	17	16	[2009,2012]	4|0	4|9	3	2	2	2	2	1	2	1	2	1	2	2	
+d/animal/insecta-ant-colony1-day11.edges	114	3454	[1,159]	90|0	0|0	35	10	6	65	6	3	6	3	6	3	38	18	
+d/animal/aves-barn-swallow-contact-network.edges	18	53	[1,8]	11|0	1|0	10	6	5	7	5	3	4	3	4	3	7	5	
+d/animal/insecta-ant-colony1-day18.edges	113	3423	[1,160]	95|0	0|0	34	11	10	73	10	4	8	4	8	4	43	24	
+d/animal/insecta-ant-colony1-day25.edges	113	2117	[1,94]	73|0	0|0	30	10	8	57	8	4	8	4	8	4	38	20	
+d/animal/insecta-ant-colony4-day09.edges	103	3988	[1,91]	98|0	0|0	34	9	7	86	7	4	7	4	6	4	40	24	
+d/animal/insecta-ant-colony1-day09.edges	114	4128	[1,142]	105|0	0|0	48	11	9	83	9	5	8	5	8	5	46	24	
+d/animal/insecta-ant-colony6-day05.edges	165	10005	[1,102]	159|0	0|0	47	14	9	133	9	5	9	5	9	5	58	31	
+d/animal/fish-stickleback-group-2.edges	11	45	[0,0]	9|0	0|0	9	0	0	0	0	0	0	0	0	0	0	0	
+d/animal/insecta-ant-colony3-day27.edges	161	4545	[1,208]	106|0	0|0	40	12	9	91	9	5	9	5	9	5	42	25	
+d/animal/aves-sparrow-social-2009.edges	32	211	[0,0]	23|0	0|0	23	0	0	18	18	10	18	10	18	10	18	10	
+d/animal/insecta-ant-colony6-day24.edges	165	4536	[1,101]	114|0	0|0	37	11	8	86	8	5	8	5	7	5	40	24	
+d/animal/insecta-ant-colony2-day20.edges	132	3902	[1,86]	98|0	0|0	37	10	9	77	9	5	8	5	8	5	38	24	
+d/animal/insecta-beetle-group-c2-period-1.edges	28	117	[0,0]	17|0	0|0	17	0	0	7	7	4	7	4	7	4	7	4	
+d/animal/insecta-ant-colony3-day26.edges	161	4535	[1,176]	106|0	1|0	41	12	9	84	9	5	9	5	9	5	44	28	
+d/animal/insecta-ant-colony5-day40.edges	152	1512	[1,187]	63|0	0|0	22	9	6	54	6	4	6	4	6	4	25	15	
+d/animal/insecta-ant-colony2-day27.edges	132	2394	[1,157]	80|0	0|0	28	8	7	64	7	4	7	4	7	4	33	19	
+d/animal/insecta-ant-colony1-day29.edges	113	2221	[1,135]	74|0	0|0	38	13	9	60	8	4	7	4	7	4	31	20	
+d/animal/insecta-ant-colony2-day11.edges	132	5704	[1,119]	125|0	0|0	43	12	10	102	9	5	9	5	9	5	48	28	
+d/animal/insecta-ant-colony2.edges	132	8437	[1,277]	130|0	0|0	99	106	105	128	127	110	122	79	122	79	128	80	
+d/animal/insecta-ant-colony3-day35.edges	161	2915	[1,90]	86|0	0|0	32	9	8	68	8	4	8	4	8	4	36	21	
+d/animal/fish-guppy-familiar-2.edges	7	15	[7,22]	5|0	0|0	2	1	1	0	1	0	1	0	0	0	0	0	
+d/animal/insecta-ant-colony2-day33.edges	130	1086	[1,86]	50|0	0|0	19	7	5	43	5	3	5	3	4	3	21	12	
+d/animal/insecta-ant-colony3-day13.edges	161	6477	[1,146]	131|0	0|0	55	16	12	104	12	6	11	6	11	6	62	32	
+d/animal/insecta-ant-colony5-day35.edges	152	1506	[1,139]	59|0	0|0	26	8	7	51	6	3	5	3	5	3	28	16	
+d/animal/aves-barn-swallow-non-physical.edges	18	122	[1,52]	16|0	0|0	10	3	2	12	2	2	2	2	1	2	9	4	
+d/animal/insecta-ant-colony5-day28.edges	152	2956	[1,167]	84|0	0|0	30	10	7	70	7	4	7	4	7	4	35	20	
+d/animal/insecta-ant-colony3-day11.edges	161	8451	[1,125]	144|0	0|0	57	16	13	115	13	7	13	7	12	7	71	37	
+d/animal/aves-geese-female-foraging.edges	21	190	[0,93]	19|0	0|0	11	5	5	0	5	2	5	2	5	2	13	6	
+d/animal/aves-wildbird-network-2.edges	153	1483	[0,0]	62|0	3|4	62	0	0	34	34	20	34	20	34	20	34	20	
+d/animal/insecta-ant-colony2-day24.edges	132	2313	[1,166]	73|0	0|0	28	8	7	59	7	4	6	4	6	4	31	18	
+d/animal/insecta-ant-colony1-day13.edges	113	3252	[1,187]	91|0	0|0	37	12	10	73	10	5	10	5	8	5	47	24	
+d/animal/insecta-ant-colony4-day12.edges	102	2067	[1,79]	70|0	0|1	29	10	8	64	8	4	6	4	6	4	34	20	
+d/animal/insecta-ant-colony1-day30.edges	113	2220	[1,98]	76|0	0|0	33	10	8	59	8	4	8	4	7	4	33	20	
+d/animal/insecta-ant-colony2-day39.edges	130	879	[1,80]	47|0	0|0	20	8	6	35	6	3	6	3	4	3	21	11	
+d/animal/insecta-ant-trophallaxis-colony2-day3.edges	34	45	[6,442]	6|0	5|5	2	1	1	3	1	0	1	0	1	0	1	1	
+d/animal/insecta-ant-colony4-day04.edges	103	3754	[1,88]	97|0	0|0	38	12	11	84	9	5	9	5	9	5	50	28	
+d/animal/insecta-ant-colony5-day15.edges	152	5990	[1,228]	129|0	0|0	44	16	10	96	10	5	9	5	9	5	50	28	
+d/animal/insecta-ant-colony3-day04.edges	161	9092	[1,95]	148|0	0|0	68	20	16	138	14	8	14	8	14	8	80	44	
+d/animal/insecta-ant-colony6-day28.edges	165	4784	[1,142]	106|0	0|0	37	12	9	93	9	5	8	5	8	5	44	26	
+d/animal/insecta-ant-colony6-day16.edges	165	6611	[1,166]	122|0	0|0	54	14	10	105	10	5	10	5	10	5	48	26	
+d/animal/insecta-ant-colony6-day03.edges	165	10090	[1,108]	158|0	0|0	47	14	11	136	11	5	11	5	11	5	58	32	
+d/animal/insecta-ant-colony2-day18.edges	132	3825	[1,184]	99|0	0|1	40	12	9	77	9	5	9	5	9	5	44	23	
+d/animal/insecta-ant-colony4.edges	103	5091	[1,133]	101|0	0|0	69	77	76	97	99	85	96	53	96	52	97	52	
+d/animal/insecta-ant-colony4-day03.edges	103	4055	[1,63]	99|0	0|0	46	14	12	88	12	5	9	5	9	5	56	30	
+d/animal/insecta-ant-trophallaxis-colony1-day4.edges	41	51	[8,512]	8|0	8|8	2	1	1	4	1	0	1	0	1	0	1	1	
+d/animal/insecta-ant-colony1-day19.edges	113	3196	[1,161]	95|0	0|0	35	13	11	74	11	4	11	4	11	4	43	23	
+d/animal/insecta-ant-colony3-day25.edges	161	4440	[1,204]	106|0	0|1	42	14	11	85	10	5	10	5	10	5	50	26	
+d/animal/insecta-ant-colony6-day25.edges	165	4658	[1,144]	107|0	0|0	41	12	10	92	9	5	9	5	9	5	45	25	
+d/animal/insecta-ant-colony6-day14.edges	165	7037	[1,140]	132|0	0|0	42	12	10	112	10	5	10	5	10	5	54	28	
+d/animal/insecta-ant-colony6-day21.edges	165	7121	[1,179]	133|0	0|0	43	12	10	114	10	5	10	5	10	5	52	30	
+d/animal/insecta-ant-colony1-day33.edges	113	1082	[1,76]	49|0	1|0	26	8	6	42	6	4	6	4	5	4	26	15	
+d/animal/insecta-ant-colony4-day24.edges	102	1167	[1,76]	51|0	0|0	20	6	5	45	5	3	4	3	4	3	22	13	
+d/animal/insecta-ant-trophallaxis-colony1.edges	42	256	[1,940]	25|0	0|1	11	4	4	12	4	2	4	2	4	2	9	6	
+d/animal/insecta-ant-colony3-day36.edges	161	3028	[1,74]	86|0	0|0	31	9	7	67	7	4	7	4	7	4	33	20	
+d/animal/insecta-ant-colony6-day10.edges	165	9354	[1,138]	151|0	0|0	46	11	9	126	9	5	9	5	9	5	51	27	
+d/animal/aves-wildbird-network-4.edges	182	2009	[0,0]	71|0	1|5	71	0	0	45	45	27	45	27	45	27	45	27	
+d/animal/insecta-ant-colony5-day20.edges	152	5907	[1,207]	124|0	0|0	43	13	11	99	11	5	11	5	11	5	47	29	
+d/animal/insecta-ant-colony1-day04.edges	114	4094	[1,113]	101|0	0|0	43	13	9	80	9	4	9	4	7	4	48	25	
+d/animal/reptilia-tortoise-network-pv.edges	36	66	[2005,2013]	12|0	8|8	8	5	5	5	2	4	2	4	2	4	5	4	
+d/animal/insecta-ant-trophallaxis-colony1-day5.edges	39	26	[6,370]	5|0	11|9	1	0	0	2	0	0	0	0	0	0	1	0	
+d/animal/insecta-ant-colony4-day17.edges	102	2089	[1,54]	69|0	0|0	33	9	8	62	8	4	7	4	7	4	34	21	
+d/animal/insecta-ant-colony6-day12.edges	165	6625	[1,152]	126|0	0|0	44	11	9	108	9	5	9	5	8	5	44	25	
+d/animal/insecta-ant-colony5-day29.edges	152	2866	[1,163]	85|0	0|1	33	9	7	69	7	4	6	4	6	4	36	21	
+d/animal/insecta-ant-colony1-day07.edges	114	4077	[1,107]	101|0	0|0	42	12	9	78	9	5	9	5	7	5	42	23	
+d/animal/insecta-ant-colony1-day41.edges	113	1129	[1,73]	52|0	0|0	27	8	7	42	7	4	6	4	5	4	27	14	
+d/animal/insecta-beetle-group-t3-period-1.edges	30	180	[0,0]	19|0	0|0	19	0	0	13	13	7	13	7	13	7	13	7	
+d/animal/insecta-ant-colony3-day10.edges	161	9046	[1,137]	153|0	0|0	61	20	14	126	14	7	14	7	12	7	70	39	
+d/animal/insecta-ant-colony3-day29.edges	161	4695	[1,143]	108|0	0|1	42	14	13	90	13	5	13	5	13	5	53	28	
+d/animal/insecta-ant-colony3-day33.edges	161	2977	[1,75]	86|0	0|0	30	10	7	69	7	4	7	4	7	4	41	19	
+d/animal/insecta-ant-colony2-day23.edges	132	2605	[1,122]	82|0	0|0	41	12	9	64	9	4	9	4	9	4	36	21	
+d/animal/insecta-ant-colony3-day09.edges	161	8883	[1,177]	146|0	0|0	67	19	13	125	13	7	13	7	13	7	75	40	
+d/animal/insecta-ant-colony4-day29.edges	102	1272	[1,63]	54|0	0|0	21	7	6	48	6	3	4	3	4	3	28	14	
+d/animal/insecta-ant-colony5-day09.edges	153	7835	[1,184]	150|0	0|0	50	12	9	116	9	5	9	5	9	5	57	32	
+d/animal/reptilia-tortoise-network-cs.edges	74	132	[2006,2015]	15|0	25|16	9	7	4	6	4	3	4	3	4	3	6	4	
+d/animal/insecta-ant-colony6-day09.edges	165	10774	[1,221]	158|0	0|0	56	13	9	146	9	5	9	5	9	5	60	36	
+d/animal/insecta-ant-colony4-day08.edges	103	3857	[1,63]	97|0	0|0	43	13	13	80	10	5	9	5	9	5	43	27	
+d/animal/insecta-ant-colony3-day19.edges	161	6417	[1,192]	127|0	0|0	51	14	10	107	10	5	10	5	9	5	60	32	
+d/animal/insecta-ant-colony4-day01.edges	103	4269	[1,97]	101|0	0|0	41	12	11	87	11	5	11	5	11	5	54	30	
+d/animal/insecta-ant-colony4-day14.edges	102	2107	[1,108]	71|0	0|0	28	13	7	60	7	4	7	4	6	4	35	20	
+d/animal/insecta-ant-colony3.edges	161	12656	[1,376]	159|0	0|0	118	118	116	158	157	132	156	83	156	81	158	87	
+d/animal/aves-wildbird-network-1.edges	132	1444	[0,0]	57|0	1|1	57	0	0	30	30	13	30	13	30	13	30	13	
+d/animal/reptilia-tortoise-network-sl.edges	12	13	[2012,2013]	4|0	1|6	4	1	1	2	2	1	2	1	2	1	2	1	
+d/animal/insecta-ant-colony3-day07.edges	161	8690	[1,155]	151|0	0|0	58	17	15	118	15	7	15	7	15	7	79	40	
+d/animal/insecta-ant-colony2-day38.edges	130	963	[1,58]	51|0	0|0	21	8	5	38	5	3	5	3	5	3	23	14	
+d/animal/insecta-ant-colony3-day15.edges	161	6403	[1,147]	125|0	0|0	51	15	10	105	10	6	10	6	10	6	62	32	
+d/animal/fish-guppy-familiar-10.edges	7	15	[13,26]	5|0	0|0	4	1	1	0	1	1	1	1	0	1	0	1	
+d/animal/insecta-ant-colony3-day17.edges	161	6731	[1,158]	129|0	0|0	54	13	12	109	12	6	12	6	11	6	63	31	
+d/animal/insecta-beetle-group-c1-period-1.edges	31	185	[0,0]	19|0	0|0	19	0	0	13	13	7	13	7	13	7	13	7	
+d/animal/insecta-ant-colony4-day21.edges	102	2120	[1,66]	69|0	0|0	33	10	8	62	8	4	8	4	8	4	30	19	
+d/animal/insecta-beetle-group-c1-period-2.edges	31	210	[0,0]	23|0	0|1	23	0	0	14	14	9	14	9	14	9	14	9	
+d/animal/insecta-ant-colony2-day05.edges	132	5926	[1,277]	123|0	0|0	45	13	10	98	10	5	10	5	9	5	49	29	
+d/animal/insecta-ant-colony6-day11.edges	165	8042	[1,165]	143|0	1|0	40	11	7	107	7	4	7	4	7	4	46	23	
+d/animal/insecta-ant-colony2-day34.edges	130	1061	[1,70]	50|0	0|0	22	7	5	43	5	3	5	3	5	3	20	12	
+d/animal/aves-sparrow-social.edges	53	454	[0,0]	35|0	0|0	35	0	0	18	18	11	18	11	18	11	18	11	
+d/animal/aves-thornbill-farine.edges	63	1151	[1,22]	55|0	0|0	36	21	16	40	16	8	16	8	16	8	37	23	
+d/animal/insecta-ant-colony2-day36.edges	130	1015	[1,58]	50|0	0|0	20	7	5	40	5	3	5	3	5	3	23	13	
+d/animal/insecta-ant-colony5-day39.edges	152	1501	[1,55]	62|0	0|0	24	8	6	48	6	3	6	3	5	3	26	16	
+d/animal/insecta-ant-colony2-day15.edges	132	3972	[1,143]	104|0	0|0	32	10	8	85	8	4	7	4	7	4	40	24	
+d/animal/insecta-ant-colony6-day01.edges	165	10731	[1,229]	160|0	0|0	45	12	10	145	10	5	9	5	9	5	54	31	
+d/animal/insecta-ant-colony5-day07.edges	153	8093	[1,195]	148|0	0|0	58	14	11	113	11	6	10	6	10	6	59	34	
+d/animal/insecta-ant-colony4-day34.edges	102	505	[1,52]	33|0	0|0	16	6	4	29	4	3	4	3	3	3	19	8	
+d/animal/insecta-beetle-group-c2-period-2.edges	31	195	[0,0]	21|0	0|1	21	0	0	14	14	8	14	8	14	8	14	8	
+d/animal/insecta-ant-colony1-day02.edges	114	4573	[1,138]	106|0	0|0	43	12	9	92	9	5	9	5	9	5	47	25	
+d/animal/insecta-beetle-group-t4-period-1.edges	31	155	[0,0]	19|0	0|1	19	0	0	9	9	6	9	6	9	6	9	6	
+d/animal/insecta-ant-colony2-day03.edges	132	6497	[1,235]	124|0	0|0	49	16	12	106	12	6	12	6	12	6	49	29	
+d/animal/insecta-ant-colony1-day32.edges	113	1090	[1,73]	50|0	0|1	24	8	6	40	5	3	5	3	5	3	26	15	
+d/animal/insecta-beetle-group-c4-period-2.edges	31	176	[0,0]	18|0	0|1	18	0	0	12	12	7	12	7	12	7	12	7	
+d/animal/insecta-ant-colony6-day27.edges	165	4788	[1,112]	111|0	0|0	45	14	11	87	11	5	11	5	9	5	50	28	
+d/animal/insecta-ant-colony4-day35.edges	102	501	[1,54]	33|0	0|0	14	5	4	29	4	2	4	2	4	2	15	7	
+d/animal/insecta-ant-colony6-day30.edges	165	4709	[1,111]	107|0	0|0	40	14	12	89	11	5	11	5	11	5	45	26	
+d/animal/insecta-ant-colony2-day16.edges	132	4041	[1,140]	108|0	0|0	39	12	9	80	9	4	8	4	8	4	36	20	
+d/animal/insecta-ant-colony6-day04.edges	165	10313	[1,97]	158|0	0|0	48	13	10	141	10	5	10	5	10	5	54	31	
+d/animal/insecta-ant-colony1-day01.edges	114	4550	[1,133]	109|0	0|0	43	16	11	92	11	5	11	5	9	5	51	28	
+d/animal/insecta-ant-colony4-day07.edges	103	3797	[1,133]	97|0	0|0	36	13	9	81	9	5	9	5	9	5	53	26	
+d/animal/insecta-ant-colony2-day40.edges	130	895	[1,56]	44|0	0|0	22	6	5	33	5	3	5	3	5	3	18	10	
+d/animal/insecta-ant-colony2-day29.edges	132	2373	[1,127]	77|0	0|1	30	9	9	58	9	4	9	4	9	4	33	18	
+d/animal/fish-guppy-familiar-7.edges	7	15	[9,20]	5|0	0|0	3	1	1	0	1	1	0	1	0	1	0	1	
+d/animal/insecta-ant-colony6-day18.edges	165	7061	[1,130]	129|0	0|0	43	11	10	113	10	5	10	5	10	5	50	28	
+d/animal/insecta-ant-colony1-day06.edges	114	4259	[1,118]	100|0	0|0	43	12	11	82	11	5	9	5	8	5	46	25	
+d/animal/insecta-beetle-group-t2-period-1.edges	31	178	[0,0]	22|0	0|0	22	0	0	12	12	6	12	6	12	6	12	6	
+d/animal/insecta-ant-trophallaxis-colony2.edges	40	245	[1,794]	25|0	3|1	12	5	4	13	4	2	3	2	3	2	11	6	
+d/animal/insecta-ant-colony4-day22.edges	102	1234	[1,104]	54|0	0|0	23	7	5	47	5	3	5	3	5	3	28	15	
+d/animal/insecta-beetle-group-c3-period-2.edges	30	174	[0,0]	19|0	1|0	19	0	0	13	13	8	13	8	13	8	13	8	
+d/animal/insecta-ant-colony3-day32.edges	161	2990	[1,91]	86|0	0|1	34	11	8	67	8	5	8	5	8	5	43	22	
+d/animal/fish-guppy-familiar-6.edges	7	15	[14,25]	5|0	0|0	3	1	1	0	1	1	1	1	1	1	0	1	
+d/animal/insecta-ant-colony5-day32.edges	152	1546	[1,110]	62|0	0|0	25	9	9	53	9	4	9	4	7	4	26	17	
+d/animal/insecta-ant-colony5-day01.edges	153	9053	[1,250]	150|0	0|0	52	14	12	129	12	6	11	6	11	6	64	38	
+d/animal/insecta-ant-colony3-day18.edges	161	6609	[1,288]	128|0	0|0	52	15	11	112	11	6	11	6	9	6	62	29	
+d/animal/insecta-ant-colony5-day27.edges	152	2856	[1,123]	83|0	0|0	26	9	7	71	7	4	7	4	6	4	37	21	
+d/animal/insecta-ant-colony2-day25.edges	132	2336	[1,214]	78|0	0|0	30	9	8	60	8	4	8	4	8	4	30	18	
+d/animal/aves-wildbird-network-5.edges	192	2512	[0,1]	78|0	2|4	78	70	70	50	50	39	50	39	50	39	50	39	
+d/animal/insecta-ant-colony3-day05.edges	161	8863	[1,182]	152|0	0|0	64	20	17	124	17	7	11	7	11	7	81	43	
+d/animal/insecta-ant-colony2-day26.edges	132	2351	[1,126]	82|0	1|0	27	9	7	58	7	4	7	4	6	4	28	17	
+d/animal/insecta-ant-colony6-day17.edges	165	7178	[1,159]	137|0	0|0	44	12	10	112	10	5	10	5	10	5	52	27	
+d/animal/insecta-ant-colony1-day40.edges	113	1094	[1,93]	50|0	0|0	24	8	6	43	6	3	6	3	5	3	23	13	
+d/animal/insecta-ant-colony2-day30.edges	132	2401	[1,83]	79|0	0|0	27	9	7	62	7	4	6	4	6	4	33	20	
+d/animal/reptilia-tortoise-network-bsv.edges	137	374	[1996,1999]	19|0	20|24	16	11	8	8	6	6	6	6	6	6	8	6	
+d/animal/aves-geese-male-foraging.edges	24	253	[0,173]	22|0	0|0	19	9	7	0	5	4	4	4	4	4	14	7	
+d/animal/insecta-ant-colony1-day17.edges	113	3342	[1,247]	96|0	0|0	37	12	9	77	9	5	9	5	9	5	42	25	
+d/animal/insecta-ant-colony5-day06.edges	153	8379	[1,275]	149|0	0|0	56	19	13	120	13	6	13	6	10	6	60	33	
+d/animal/insecta-ant-trophallaxis-colony2-day5.edges	35	32	[10,546]	4|0	10|9	1	0	0	1	0	0	0	0	0	0	1	0	
+d/animal/insecta-ant-colony3-day12.edges	161	6404	[1,107]	126|0	0|0	52	17	12	103	12	6	11	6	10	6	61	33	
+d/animal/insecta-ant-colony4-day20.edges	102	2184	[1,70]	70|0	0|0	28	10	9	67	9	4	9	4	9	4	33	21	
+d/animal/aves-wildbird-network-3.edges	170	1615	[0,0]	58|0	0|5	58	0	0	41	41	25	41	25	41	25	41	25	
+d/animal/insecta-ant-colony3-day30.edges	161	4321	[1,161]	104|0	1|0	39	13	12	84	12	5	9	5	9	5	47	25	
+d/animal/insecta-ant-colony2-day10.edges	132	5679	[1,187]	124|0	0|0	41	13	10	105	10	5	10	5	10	5	50	26	
+d/animal/insecta-ant-colony2-day06.edges	132	5960	[1,161]	127|0	0|0	43	14	10	99	10	5	10	5	8	5	51	27	
+d/animal/insecta-ant-colony2-day08.edges	132	6078	[1,176]	127|0	0|0	38	12	10	99	10	5	10	5	8	5	44	26	
+d/animal/insecta-ant-colony4-day39.edges	102	492	[1,90]	33|0	0|0	12	4	3	30	3	2	3	2	3	2	13	8	
+d/animal/insecta-ant-colony2-day09.edges	132	6375	[1,120]	128|0	0|0	44	11	8	105	8	4	8	4	8	4	51	27	
+d/animal/insecta-ant-colony3-day39.edges	161	3059	[1,109]	89|0	0|0	32	10	8	74	7	4	7	4	7	4	36	23	
+d/animal/insecta-ant-colony4-day28.edges	102	1276	[1,57]	54|0	0|0	22	6	5	48	5	3	4	3	4	3	26	14	
+d/animal/insecta-ant-colony5-day10.edges	153	7779	[1,205]	143|0	0|0	47	11	10	119	10	5	10	5	10	5	52	31	
+d/animal/insecta-ant-colony1.edges	114	6113	[1,362]	112|0	0|0	85	84	83	107	109	87	107	55	107	55	107	62	
+d/animal/insecta-ant-colony5-day33.edges	152	1485	[1,95]	60|0	0|0	26	8	6	52	6	3	6	3	6	3	31	15	
+d/animal/fish-guppy-familiar-1.edges	7	15	[9,21]	5|0	0|0	3	1	1	0	1	1	1	1	0	1	0	1	
+d/animal/insecta-ant-colony6-day29.edges	165	5112	[1,180]	112|0	0|0	36	11	9	100	9	5	9	5	9	5	45	26	
+d/animal/insecta-ant-colony1-day24.edges	113	2372	[1,160]	75|0	0|0	34	12	9	64	9	4	6	4	6	4	35	20	
+d/animal/insecta-ant-colony4-day16.edges	102	2095	[1,65]	70|0	0|0	27	9	7	61	7	4	7	4	7	4	32	19	
+d/animal/insecta-ant-colony5-day34.edges	152	1425	[1,139]	61|0	0|0	27	9	8	47	8	4	7	4	6	4	26	16	
+d/animal/insecta-ant-colony1-day20.edges	113	3147	[1,134]	91|0	0|0	37	11	9	69	9	4	9	4	9	4	40	23	
+d/animal/insecta-ant-colony1-day14.edges	113	3399	[1,123]	92|0	0|0	33	12	9	75	8	5	8	5	8	5	45	24	
+d/animal/insecta-ant-colony6.edges	165	13193	[1,269]	163|0	0|0	114	113	111	161	161	138	155	82	154	78	161	84	
+d/animal/insecta-ant-colony1-day12.edges	113	3248	[1,169]	92|0	0|0	40	11	9	70	9	5	9	5	8	5	42	25	
+d/animal/insecta-ant-colony4-day25.edges	102	1204	[1,60]	52|0	0|0	19	6	5	49	5	3	5	3	5	3	24	13	
+d/animal/insecta-ant-colony4-day33.edges	102	490	[1,67]	34|0	0|0	12	6	3	29	3	2	3	2	3	2	15	8	
+d/animal/insecta-ant-trophallaxis-colony1-day7.edges	42	43	[4,564]	6|0	6|5	1	0	0	2	0	0	0	0	0	0	1	1	
+d/animal/aves-weaver-social.edges	446	1335	[0,22]	27|0	41|39	27	16	16	7	7	10	7	10	7	10	7	10	
+d/animal/insecta-ant-colony2-day04.edges	132	6198	[1,243]	125|0	0|0	45	13	11	104	11	5	11	5	11	5	43	28	
+d/animal/insecta-ant-colony1-day28.edges	113	2143	[1,110]	72|0	0|0	29	9	6	57	6	4	6	4	6	4	35	19	
+d/animal/insecta-ant-colony4-day32.edges	102	497	[1,72]	33|0	0|0	15	5	4	30	4	3	4	3	4	3	17	9	
+d/animal/aves-sparrow-social-2010.edges	53	305	[0,0]	29|0	0|0	29	0	0	14	14	9	14	9	14	9	14	9	
+d/animal/insecta-ant-colony6-day19.edges	165	7209	[1,176]	134|0	0|0	58	14	11	110	11	5	11	5	11	5	55	29	
+d/animal/insecta-beetle-group-t1-period-1.edges	31	161	[0,0]	18|0	0|0	18	0	0	10	10	6	10	6	10	6	10	6	
+d/animal/insecta-ant-colony4-day27.edges	102	1266	[1,68]	54|0	0|0	26	8	5	48	5	3	5	3	5	3	24	15	
+d/animal/insecta-ant-trophallaxis-colony2-day1.edges	27	36	[2,444]	7|0	4|9	2	1	1	2	1	0	1	0	1	0	1	1	
+d/animal/insecta-ant-colony4-day41.edges	102	500	[1,53]	33|0	0|0	13	5	5	30	5	2	4	2	3	2	13	7	
+d/animal/insecta-ant-colony1-day10.edges	114	3943	[1,174]	93|0	0|0	43	13	10	76	9	4	8	4	8	4	46	23	
+d/animal/insecta-ant-colony6-day38.edges	163	2475	[1,135]	76|0	0|0	33	9	7	63	7	4	7	4	7	4	32	17	
+d/animal/fish-guppy-familiar-4.edges	7	15	[8,23]	5|0	0|0	2	1	1	0	1	1	1	1	0	1	0	1	
+d/animal/insecta-ant-colony1-day03.edges	114	4483	[1,262]	104|0	0|0	40	11	9	87	9	5	9	5	9	5	50	26	
+d/animal/insecta-ant-colony1-day22.edges	113	2269	[1,104]	74|0	0|0	31	11	8	62	8	4	8	4	6	4	34	21	
+d/animal/insecta-ant-colony3-day16.edges	161	7025	[1,132]	130|0	0|0	50	15	12	111	12	6	11	6	11	6	66	31	
+d/animal/insecta-ant-trophallaxis-colony2-day6.edges	37	46	[4,416]	8|0	8|9	2	1	1	3	1	0	1	0	1	0	1	0	
+d/animal/insecta-ant-colony4-day23.edges	102	1228	[1,60]	52|0	0|0	22	8	5	47	5	3	5	3	5	3	27	14	
+d/animal/insecta-ant-colony2-day14.edges	132	3930	[1,165]	107|0	0|0	38	11	9	82	9	5	9	5	8	5	41	25	
+d/animal/insecta-ant-colony6-day07.edges	165	9860	[1,234]	156|0	0|0	49	13	11	133	11	5	10	5	10	5	62	32	
+d/animal/insecta-ant-colony4-day26.edges	102	1240	[1,78]	53|0	0|0	23	7	6	50	6	3	4	3	4	3	25	14	
+d/animal/insecta-ant-colony3-day34.edges	161	3348	[1,84]	89|0	1|0	38	12	10	78	10	4	10	4	10	4	41	21	
+d/animal/insecta-ant-colony3-day28.edges	161	4634	[1,269]	108|0	0|0	39	12	9	87	9	5	9	5	9	5	45	26	
+d/animal/insecta-ant-colony1-day34.edges	113	1118	[1,121]	52|0	1|0	26	10	9	42	9	3	9	3	9	3	30	14	
+d/animal/insecta-beetle-group-c4-period-1.edges	31	138	[0,0]	16|0	0|0	16	0	0	8	8	6	8	6	8	6	8	6	
+d/animal/reptilia-tortoise-network-fi.edges	788	1197	[2005,2013]	17|0	309|156	12	10	10	8	8	8	8	8	8	8	8	8	
+d/animal/insecta-ant-colony5-day05.edges	153	8410	[1,152]	150|0	0|0	47	15	12	125	11	6	11	6	11	6	58	33	
+d/animal/insecta-ant-colony1-day36.edges	113	1083	[1,92]	51|0	0|1	22	9	6	41	6	3	6	3	5	3	26	14	
+d/animal/insecta-ant-colony6-day06.edges	165	9726	[1,216]	156|0	0|0	46	12	10	135	10	5	10	5	10	5	53	32	
+d/animal/insecta-ant-colony6-day22.edges	165	4885	[1,175]	115|0	0|0	40	11	10	94	10	5	8	5	8	5	50	26	
+d/animal/insecta-ant-colony2-day41.edges	130	930	[1,76]	51|0	0|0	20	7	5	35	5	3	5	3	5	3	21	11	
+d/animal/fish-stickleback-group-4.edges	11	45	[0,0]	9|0	0|0	9	0	0	0	0	0	0	0	0	0	0	0	
+d/animal/insecta-ant-colony3-day21.edges	161	6480	[1,231]	127|0	0|0	49	15	11	109	11	5	11	5	10	5	55	31	
+d/animal/insecta-ant-colony2-day12.edges	132	3808	[1,131]	99|0	0|0	37	11	10	78	10	4	10	4	7	4	39	22	
+d/animal/insecta-ant-colony3-day06.edges	161	8823	[1,239]	152|0	0|0	75	20	15	120	14	7	14	7	14	7	80	42	
+d/animal/insecta-ant-colony4-day13.edges	102	2119	[1,108]	70|0	0|0	32	9	8	60	8	4	8	4	8	4	35	21	
+d/animal/insecta-ant-colony1-day39.edges	113	1106	[1,116]	52|0	0|0	21	8	8	42	8	4	7	4	7	4	26	13	
+d/animal/insecta-ant-colony1-day05.edges	114	4149	[1,141]	101|0	0|0	39	12	10	79	10	5	10	5	10	5	45	25	
+d/animal/insecta-ant-colony6-day32.edges	163	2817	[1,104]	80|0	0|0	31	8	7	68	7	4	7	4	6	4	39	19	
+d/animal/aves-songbird-social.edges	118	1027	[0,0]	56|0	6|5	56	0	0	25	25	14	25	14	25	14	25	14	
+d/animal/insecta-ant-colony1-day38.edges	113	1134	[1,94]	51|0	1|0	24	7	5	46	5	3	5	3	5	3	25	13	
+d/animal/insecta-ant-colony2-day22.edges	132	2507	[1,107]	81|0	0|0	29	9	7	63	7	3	6	3	6	3	29	19	
+d/animal/insecta-ant-colony6-day33.edges	163	2718	[1,97]	80|0	0|0	31	10	8	65	8	4	7	4	7	4	35	20	
+d/animal/insecta-ant-colony3-day20.edges	161	6368	[1,146]	128|0	1|0	55	13	10	108	10	6	10	6	9	6	52	31	
+d/animal/insecta-ant-colony5-day18.edges	152	6180	[1,209]	127|0	0|0	42	13	11	97	11	5	11	5	11	5	52	29	
+d/animal/insecta-ant-colony6-day35.edges	163	2670	[1,124]	81|0	0|0	35	11	7	67	7	4	7	4	7	4	33	20	
+d/animal/insecta-ant-colony4-day02.edges	103	4149	[1,83]	99|0	0|0	41	11	9	90	9	5	9	5	9	5	54	30	
+d/animal/insecta-ant-colony3-day24.edges	161	4477	[1,376]	106|0	1|0	43	11	9	86	9	5	8	5	8	5	55	26	
+d/animal/insecta-ant-colony5-day31.edges	152	2556	[1,328]	82|0	0|0	37	11	8	66	8	5	8	5	8	5	43	23	
+d/animal/insecta-ant-colony5-day25.edges	152	2916	[1,127]	83|0	0|0	32	10	8	70	8	4	8	4	8	4	36	22	
+d/animal/insecta-ant-colony5-day26.edges	152	2568	[1,118]	77|0	0|0	32	9	7	65	7	4	7	4	7	4	34	20	
+d/animal/insecta-ant-colony6-day23.edges	165	4888	[1,151]	107|0	0|0	42	11	9	89	9	5	9	5	9	5	43	25	
+d/animal/insecta-ant-trophallaxis-colony1-day6.edges	41	23	[8,940]	3|0	15|14	1	0	0	1	0	0	0	0	0	0	1	1	
+d/animal/aves-wildbird-network.edges	203	4574	[0,1]	110|0	0|4	110	95	95	71	71	53	71	53	71	53	71	53	
+d/animal/insecta-ant-colony1-day15.edges	113	3301	[1,362]	92|0	0|0	36	11	8	76	8	4	7	4	7	4	45	23	
+d/animal/insecta-ant-colony1-day23.edges	113	2246	[1,125]	73|0	0|0	32	10	7	60	7	4	7	4	7	4	39	20	
+d/animal/fish-stickleback-group-6.edges	11	45	[0,0]	9|0	0|0	9	0	0	0	0	0	0	0	0	0	0	0	
+d/animal/insecta-ant-colony2-day01.edges	132	6591	[1,157]	128|0	0|0	47	14	11	111	11	5	11	5	11	5	54	30	
+d/animal/insecta-ant-trophallaxis-colony1-day2.edges	36	32	[4,918]	4|0	3|7	2	1	1	2	1	0	1	0	1	0	1	1	
+d/animal/insecta-ant-colony2-day35.edges	130	991	[1,83]	50|0	0|0	20	7	6	41	6	3	6	3	6	3	21	11	
+d/animal/insecta-ant-colony2-day32.edges	130	1015	[1,50]	49|0	0|0	20	7	6	41	6	3	6	3	6	3	22	12	
+d/animal/insecta-ant-colony5-day38.edges	152	1570	[1,83]	63|0	0|0	25	8	6	52	6	3	5	3	5	3	27	16	
+d/animal/insecta-ant-colony6-day37.edges	163	2570	[1,143]	79|0	0|0	32	8	8	60	7	4	7	4	7	4	37	19	
+d/animal/insecta-ant-colony3-day37.edges	161	2969	[1,151]	86|0	1|0	30	11	7	66	7	4	7	4	7	4	36	20	
+d/animal/insecta-ant-colony4-day38.edges	102	480	[1,82]	34|0	0|0	13	4	3	26	3	2	3	2	3	2	13	8	
+d/animal/insecta-ant-colony1-day21.edges	113	3266	[1,95]	93|0	0|0	34	11	9	75	9	4	9	4	9	4	43	23	
+d/animal/fish-stickleback-group-5.edges	11	45	[0,0]	9|0	0|0	9	0	0	0	0	0	0	0	0	0	0	0	
+d/animal/insecta-ant-trophallaxis-colony1-day1.edges	31	37	[6,836]	6|0	7|13	2	1	1	2	1	0	1	0	1	0	1	0	
+d/animal/insecta-ant-colony2-day37.edges	130	928	[1,57]	48|0	0|0	18	6	5	36	5	3	5	3	5	3	19	11	
+d/animal/insecta-ant-colony6-day26.edges	165	4842	[1,108]	110|0	0|0	56	14	11	90	11	5	11	5	11	5	50	27	
+d/animal/insecta-ant-trophallaxis-colony1-day3.edges	38	28	[6,626]	6|0	15|6	2	1	1	2	1	0	1	0	1	0	1	0	
+d/animal/insecta-ant-colony3-day14.edges	161	6607	[1,111]	131|0	0|0	53	15	12	102	12	7	12	7	11	7	63	32	
+d/animal/insecta-ant-colony3-day38.edges	161	2985	[1,152]	86|0	0|0	30	9	8	71	8	4	8	4	8	4	33	20	
+d/animal/insecta-ant-colony2-day19.edges	132	3743	[1,179]	104|0	0|0	38	10	8	75	8	4	8	4	8	4	42	23	
+d/animal/insecta-ant-colony4-day11.edges	103	3592	[1,106]	98|0	0|0	33	11	7	80	7	4	7	4	7	4	36	22	
+d/animal/insecta-ant-colony3-day41.edges	161	2992	[1,102]	87|0	0|0	33	10	8	69	8	4	8	4	8	4	38	21	
+d/animal/insecta-ant-colony1-day35.edges	113	1210	[1,81]	52|0	0|0	22	7	6	46	6	3	6	3	6	3	29	13	
+d/animal/insecta-ant-colony4-day19.edges	102	2041	[1,59]	68|0	0|0	32	8	7	60	7	4	7	4	7	4	30	19	
+d/animal/insecta-ant-colony3-day01.edges	161	11139	[1,74]	159|0	0|0	69	19	16	149	16	7	16	7	14	7	82	49	
+d/animal/insecta-ant-colony3-day31.edges	161	4161	[1,120]	106|0	0|1	46	14	12	85	12	5	12	5	9	5	54	27	
+d/animal/insecta-ant-colony5-day11.edges	153	6716	[1,156]	127|0	0|0	41	11	8	105	8	5	8	5	8	5	49	24	
+d/animal/fish-guppy-familiar-9.edges	7	15	[10,21]	5|0	0|0	5	2	1	0	1	1	1	1	0	1	0	1	
+d/animal/insecta-ant-colony4-day30.edges	102	1252	[1,104]	54|0	0|0	22	7	6	45	6	3	5	3	5	3	26	14	
+d/animal/reptilia-lizard-network-social.edges	61	318	[0,0]	23|0	0|1	23	0	0	9	9	6	9	6	9	6	9	6	
+d/animal/insecta-ant-trophallaxis-colony2-day4.edges	36	41	[10,778]	7|0	9|11	1	0	0	2	0	0	0	0	0	0	1	0	
+d/animal/insecta-ant-colony1-day31.edges	113	1882	[1,112]	71|0	0|0	27	9	8	53	8	4	8	4	8	4	32	17	
+d/animal/insecta-ant-colony4-day18.edges	102	2022	[1,67]	68|0	0|0	26	8	6	58	6	4	6	4	6	4	30	19	
+d/animal/insecta-ant-colony5-day04.edges	153	8566	[1,294]	151|0	0|0	51	15	11	125	11	6	11	6	11	6	58	33	
+d/animal/insecta-ant-colony5-day17.edges	152	6082	[1,140]	126|0	0|0	40	12	11	101	11	5	11	5	11	5	43	27	
+d/animal/insecta-ant-colony2-day21.edges	132	3843	[1,131]	99|0	0|0	32	9	7	75	7	4	7	4	7	4	35	21	
+d/animal/insecta-ant-colony6-day08.edges	165	9664	[1,269]	154|0	0|0	57	14	11	135	11	5	11	5	9	5	60	33	
+d/animal/reptilia-tortoise-network-lm.edges	46	106	[1998,1999]	12|0	5|10	11	7	7	6	5	4	4	4	4	4	6	4	
+d/animal/aves-wildbird-network-6.edges	203	2837	[0,0]	81|0	1|3	81	0	0	56	56	40	56	40	56	40	56	40	
+d/animal/insecta-ant-colony4-day10.edges	103	4036	[1,84]	99|0	0|0	41	12	9	87	9	5	8	5	8	5	49	27	
+d/animal/insecta-ant-colony5.edges	153	11363	[1,328]	151|0	0|0	108	108	108	149	149	128	142	74	142	74	149	76	
+d/animal/insecta-ant-colony2-day17.edges	132	3921	[1,157]	105|0	0|0	41	12	9	76	9	4	9	4	9	4	37	23	
+d/animal/insecta-ant-colony5-day22.edges	152	2937	[1,106]	83|0	0|0	29	10	9	75	9	4	8	4	7	4	34	22	
+d/animal/insecta-ant-colony2-day07.edges	132	6293	[1,170]	129|0	0|0	43	13	10	110	9	5	9	5	9	5	48	29	
+d/animal/insecta-ant-colony5-day14.edges	152	6235	[1,168]	132|0	0|0	43	13	10	106	10	5	10	5	8	5	45	28	
+d/animal/insecta-ant-colony1-day26.edges	113	2137	[1,134]	73|0	0|0	28	9	8	58	8	4	7	4	6	4	30	20	
+d/animal/insecta-ant-colony1-day08.edges	114	4076	[1,117]	99|0	0|0	45	14	12	78	12	5	11	5	9	5	48	24	
+d/animal/insecta-ant-trophallaxis-colony2-day7.edges	40	52	[2,534]	9|0	8|4	3	1	1	4	1	1	1	1	1	1	1	1	
+d/animal/insecta-ant-colony2-day13.edges	132	3929	[1,199]	104|0	0|0	42	10	8	79	8	5	7	5	7	5	39	23	
+d/animal/insecta-ant-colony5-day36.edges	152	1554	[1,121]	64|0	0|1	32	9	6	49	6	4	6	4	5	4	31	17	
+d/animal/insecta-ant-colony5-day12.edges	152	6057	[1,159]	120|0	0|0	42	15	11	98	11	5	11	5	11	5	49	31	
+d/animal/insecta-ant-colony2-day28.edges	132	2195	[1,129]	74|0	0|0	30	9	8	57	8	4	6	4	6	4	32	18	
+d/animal/insecta-ant-colony6-day02.edges	165	10272	[1,199]	157|0	0|0	55	14	11	143	11	5	10	5	10	5	54	33	
+d/animal/fish-stickleback-group-3.edges	11	45	[0,0]	9|0	0|0	9	0	0	0	0	0	0	0	0	0	0	0	

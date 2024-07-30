@@ -11,7 +11,7 @@ struct  Options {
   void display_help() const {
     std::cout << "Available options:\n";
     std::cout << "--file         input file\n";
-    std::cout << "--folder       input folder\n";
+    std::cout << "--folder       input folder (must contains a format.format file)\n";
     std::cout << "--out          output file or folder\n\n";
     std::cout << "--format       describe format for a line\n";
     std::cout << "--formula      describe formula to compute timesteps\n";
@@ -102,7 +102,7 @@ struct  Options {
       std::cout << "Error, no output file or folder provided\n";
       exit(EXIT_SUCCESS);
     }
-    if(format=="-1"){
+    if(format=="-1" && in_folder=="-1"){
       std::cout << "Error, no format string provided\n";
       exit(EXIT_SUCCESS);
     }

@@ -198,6 +198,9 @@ struct Converter
 
   void convert_file(std::string fileName)
   {
+    vertex_map.clear();
+    lambda.clear();
+    
     std::cout << "Reading " << fileName << std::endl;
     std::ifstream file(fileName.c_str());
     if(!file) {
@@ -219,13 +222,16 @@ struct Converter
 
   void write_in_file(std::string fileName)
   {
+    if(lambda.empty()){
+      std::cout << "The graph is empty: no output\n";
+    }
     std::cout << "Writing graph " << fileName << std::endl;
     std::ofstream file(fileName);
     if (!file) {
       std::cerr << "Error : unable to create " << fileName << std::endl;
       return;
     }
-
+    
     for(auto p1 : lambda) {
       file << p1.first.first << " " << p1.first.second << " ";
       for(auto t : p1.second)

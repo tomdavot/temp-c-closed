@@ -1,6 +1,7 @@
 
 #include "converter.cpp"
 #include "options.hpp"
+#include <filesystem>
 
 void test(Options &options){
   
@@ -48,25 +49,110 @@ int main(int argc, char *argv[])
   Converter c;
   Options options(argc,argv);
 
-  std::cout << options.format << std::endl;
-  std::cout << options.formula << std::endl;
+  // std::cout << options.format << std::endl;
+  // std::cout << options.formula << std::endl;
   
   //  test(options);
   
 
-  c.set_format(options.format);
-  c.set_formula(options.formula);
-
+  
   
   if(options.input!="-1"){
+    c.set_format(options.format);
+    c.set_formula(options.formula);
+
     c.convert_file(options.input);
     c.write_in_file(options.output);
   }
   else {
-    //to do
+    std::filesystem::path dirPath(options.in_folder);
+    std::filesystem::path format_file = dirPath / "format.format";
+
+    std::cout << format_file << std::endl;
+    std::cout << std::filesystem::exists(format_file) << std::endl;
+
+    std::ifstream file(format_file);
+    if(!file) {
+      std::cout << "Error: could not open " << format_file << std::endl;
+      exit(EXIT_FAILURE);
+    }
+    std::string format="a",formula="-1";
+    
+
+    std::string line;
+    while (std::getline(file, line)) {
+      size_t equalPos = line.find('=');
+      size_t quoteStart = line.find('"', equalPos);
+      size_t quoteEnd = line.find('"', quoteStart + 1);
+
+      if (equalPos != std::string::npos && quoteStart != std::string::npos && quoteEnd != std::string::npos) {
+	std::string option = line.substr(0, equalPos);
+	std::string value = line.substr(quoteStart + 1, quoteEnd - quoteStart - 1);
+
+       
+	option.erase(option.find_last_not_of(" \t") + 1);
+	option.erase(0, option.find_first_not_of(" \t"));
+
+	std::cout << option << " => " << value << std::endl;
+	if(option=="format"){
+	  format=value;
+	}
+	else if(option=="formula"){
+	  formula=value;
+	}
+	else {
+	  std::cout << "Format file: option " << option << " not recognized\n";
+	}
+      }
+    }
+    if(format=="a" || formula=="-1"){
+      std::cout << "Error formula or format not set in format file\n";
+      exit(EXIT_SUCCESS);
+    }
+    c.set_format(format);
+    c.set_formula(formula);
+
+    if (!std::filesystem::exists(options.output)) {
+      if (!std::filesystem::create_directory(options.output)){
+	std::cout << "Unable to create " << options.output << std::endl;
+	exit(EXIT_SUCCESS);
+      }
+    }
+      
+    for (const auto& entry : std::filesystem::directory_iterator(dirPath)) {
+      if (entry.is_regular_file()) { 
+	std::filesystem::path f = entry.path();
+	if (f.filename() != "format.format") {
+	  std::cout << "Convert: " << f.filename() << std::endl;
+
+	  std::filesystem::path newFilePath = options.output / f.filename();
+	  newFilePath.replace_extension(".edges");
+
+	  c.convert_file(f);
+	  c.write_in_file(newFilePath);
+
+		
+	}
+      }
+    }
+
+    
+
+    
+    // std::string line;
+    // while (std::getline(file, line)) {
+    //   std::istringstream iss(line);
+    //   std::string opt, value;
+    //   if((iss >> opt  >> value )){
+    // 	std::cout << opt << "=" << value << std::endl;
+    //   }
+      
+    
   }
+    
+  
   
 
-   return 0;
+  return 0;
 }
 

@@ -21,26 +21,6 @@ void scanFolder(const Options & options) {
       std::cerr << "Error : not able to open " << options.output << std::endl;
       return;
     }
-
-    // file << "Name \t";
-    // file << "|V| \t";
-    // file << "|E| \t";
-    // file << "Lifetime \t";
-    // file << "Max|Min Degree \t";
-    // file << "#deg 1|2 \t";
-    // file << "(un)stability \t";
-    // file << "pair stability \t";
-    // file << "pair stability v2 \t";
-    // file << "c \t";
-    // file << "delta1=0, delta2=0 \t";
-    // file << "weak max(gamma,unstability) \t";
-    // file << "delta1=0, delta2=5 \t";
-    // file << "weak max(gamma,unstability) \t";
-    // file << "delta1=0, delta2=10 \t";
-    // file << "weak max(gamma,unstability) \t";
-    // file << "delta1=5, delta2=10 \t";
-    // file << "weak max(gamma,unstability) \t";
-    // file << "\n";
     
     file.close();
     unsigned t=0;
